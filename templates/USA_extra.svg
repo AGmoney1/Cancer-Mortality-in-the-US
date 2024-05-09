@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="160">
+
+<text id="value_label" text-anchor="start" x="10" y="30">National Population: {{national_pop}}</text>
+<text id="value_label" text-anchor="start" x="10" y="60">National Deaths: {{nat_deaths}}</text>
+<text id="value_label" text-anchor="start" x="10" y="90">National Deaths by Cancer: {{nat_death_by_can}}</text>
+<text id="value_label" text-anchor="start" x="10" y="120">Percent of Cancer Deaths out of Total Deaths: {{(can_deaths_percent)}}%</text>
+
+
+
+<text x="500" y="30" class="value" id="value3" ></text>
+<text x="500" y="60" class="value" id="value2"></text>
+<text x="500" y="90" class="value" id="value1"></text>
+<text x="500" y="120" class="value" id="ratio"></text>
+<text x="50" y="150" font-weight="bold" class="value" id="qual_data"></text>
+
+
+
+
+
+</svg>

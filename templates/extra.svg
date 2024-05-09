@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10,0,700,700" width="800" height="800">
+     <text class="title" alignment-baseline="middle" text-anchor="middle" x="250" y="25">Total Cancer Death Count in America 1999-2020</text>
+     <line class="axis" x1="50" y1="50" x2="50" y2="450"/>
+     <line class="axis" x1="50" y1="450" x2="464" y2="450"/>
+     <text class="axislabel" text-anchor="middle" x="250" y="490">Year</text>
+     <text class="axislabel" alignment-baseline="middle" transform="translate(5, 250) rotate(270)" >Amount of Deaths</text>
+     {% for year in all_years %}
+          {% if loop.index0 % 7 == 0 %}
+               <text class="label" x="{{loop.index0*(19)+65}}" y="465">{{year}}</text>
+          {% endif %}
+     {% endfor %}
+
+     {% for yearINT in range(years_length) %}
+               <polygon  id="total_shape" points="{{loop.index0*19.5+52}},{{(450-((data2[cancer_types[0]][all_years[yearINT]])*(240/599589)))}} {{loop.index0*19.5+52}},{{(450-(other_data[yearINT-1])*(240/599589))}}  {{(loop.index0+1)*(19.5)+52}},{{(450-(other_data[yearINT])*(240/599589))}} {{(loop.index0+1)*(19.5)+52}},{{(450-((data2[cancer_types[0]][all_years[yearINT+1]])*(240/599589)))}} " /> 
+               <polygon  id="other_shape" points="{{loop.index0*19.5+52}},{{(450-(other_data[yearINT-1])*(240/599589))}} {{loop.index0*19.5+52}},{{(450-((data2[cancer_types[2]][all_years[yearINT]])*(240/599589)))}} {{(loop.index0+1)*(19.5)+52}},{{(450-((data2[cancer_types[2]][all_years[yearINT+1]])*(240/599589)))}} {{(loop.index0+1)*(19.5)+52}},{{(450-(other_data[yearINT])*(240/599589))}}" /> 
+               <polygon  id="lung_bronchus_shape" points="{{loop.index0*19.5+52}},{{(450-((data2[cancer_types[2]][all_years[yearINT]])*(240/599589)))}} {{loop.index0*19.5+52}},{{(450-((data2[cancer_types[1]][all_years[yearINT]])*(240/599589)))}} {{(loop.index0+1)*(19.5)+52}},{{(450-((data2[cancer_types[1]][all_years[yearINT+1]])*(240/599589)))}} {{(loop.index0+1)*(19.5)+52}},{{(450-((data2[cancer_types[2]][all_years[yearINT+1]])*(240/599589)))}}" />
+               <polygon  id="colon_rectum_shape" points="{{loop.index0*19.5+52}},{{(450-((data2[cancer_types[1]][all_years[yearINT]])*(240/599589)))}} {{loop.index0*19.5+52}},{{(450-((data2[cancer_types[3]][all_years[yearINT]])*(240/599589)))}} {{(loop.index0+1)*(19.5)+52}},{{(450-((data2[cancer_types[3]][all_years[yearINT+1]])*(240/599589)))}} {{(loop.index0+1)*(19.5)+52}},{{(450-((data2[cancer_types[1]][all_years[yearINT+1]])*(240/599589)))}}" /> 
+               <polygon  id="breast_shape" points="{{loop.index0*19.5+52}},{{(450-((data2[cancer_types[3]][all_years[yearINT]])*(240/599589)))}} {{loop.index0*19.5+52}},{{(450-((data2[cancer_types[4]][all_years[yearINT]])*(240/599589)))}} {{(loop.index0+1)*(19.5)+52}},{{(450-((data2[cancer_types[4]][all_years[yearINT+1]])*(240/599589)))}} {{(loop.index0+1)*(19.5)+52}},{{(450-((data2[cancer_types[3]][all_years[yearINT+1]])*(240/599589)))}}" />
+               <polygon  id="prostate_shape" points="{{loop.index0*19.5+52}},{{(450-((data2[cancer_types[4]][all_years[yearINT]])*(240/599589)))}} {{loop.index0*19.5+52}},448 {{(loop.index0+1)*19.5+52}},448 {{(loop.index0+1)*(19.5)+52}},{{(450-((data2[cancer_types[4]][all_years[yearINT+1]])*(240/599589)))}}" />
+     {% endfor %}
+
+    
+        
+     <!--<line class="avgline" x1="500" y1="75" x2="545" y2="75"/>
+     <text class="linelabel" x="522.5" y="90">Universal average</text>
+     <line class="countryavgline" id="canadaline" x1="500" y1="125" x2="545" y2="125"/>
+     <text class="linelabel" x="522.5" y="140">Canada</text>
+     <line class="countryavgline" id="USline" x1="500" y1="175" x2="545" y2="175"/>
+     <text class="linelabel" x="522.5" y="190">United States</text>
+     <line class="countryavgline" id="mexicoline" x1="500" y1="225" x2="545" y2="225"/>
+     <text class="linelabel" x="522.5" y="240">Mexico</text>-->
+     
+</svg>

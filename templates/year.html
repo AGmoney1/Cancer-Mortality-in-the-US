@@ -1,0 +1,75 @@
+<html>
+<head>  
+    <title>Amount of Deaths by Most Popular Cancers in {{year}}</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="http://127.0.0.1:5000/styles.css">
+</head>
+<body> 
+    <h1>Amount of Deaths by Most Popular Cancers in {{year}}</h1>
+    <nav>{% include 'nav.html' %} </nav> 
+    <div id="USA">
+        {% include 'USA_extra.svg' %}
+        {% include 'USA.svg' %}
+    </div>
+   
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous">
+
+    </script>
+
+    <div class="value" id="value1" text-anchor="start"></div>
+    <div class="value" id="value2" text-anchor="start"></div>
+    <div class="value" id="value3" text-anchor="start"></div>
+    <div class="value" id="ratio" text-anchor="start"></div>
+    <div class="value" id="qual_data" text-anchor="start"></div>
+
+
+    <script>
+        
+
+
+
+
+
+    function showValue(path, year, data3, data1, data4, cancer_types, can_deaths_percent) {
+        const stateClass = path.childNodes[1].innerHTML
+        console.log(stateClass)
+        const value1 = data1[cancer_types[0]][year][stateClass];
+        const value2 = data4[year][stateClass];
+        const value3 = data3[year][stateClass];
+        const ratio = (value1 / value2) * 100; 
+        let roundedRatio = ratio.toFixed(2);
+        let qual_data=''       
+        console.log(can_deaths_percent,roundedRatio,roundedRatio-can_deaths_percent)
+        if ((roundedRatio - can_deaths_percent) >= 1.6) {
+           qual_data = 'significantly greater than';
+        } else if ((roundedRatio - can_deaths_percent) < 1.6 && (roundedRatio - can_deaths_percent) >= 1) {
+            qual_data = 'moderately greater than';
+        } else if ((roundedRatio - can_deaths_percent) < 1 && (roundedRatio - can_deaths_percent) >= 0.4) {
+            qual_data = 'slightly greater than';
+        } else if ((roundedRatio - can_deaths_percent) < 0.4 && (roundedRatio - can_deaths_percent) >= -0.4) {
+            qual_data = 'about the same as';
+        } else if ((roundedRatio - can_deaths_percent) < -0.4 && (roundedRatio - can_deaths_percent) >= -1) {
+            qual_data = 'slightly less than';
+        } else if ((roundedRatio - can_deaths_percent) < -1 && (roundedRatio - can_deaths_percent) >= -1.6) {
+            qual_data = 'moderately less than';
+        } else if ((roundedRatio - can_deaths_percent) <= -1.6) {
+            qual_data = 'significantly less than';
+        }
+        document.getElementById("value1").innerHTML = `${stateClass} Deaths by Cancer: ${value1}`;
+        document.getElementById("value2").innerHTML = `${stateClass} Deaths: ${value2}`;
+        document.getElementById("value3").innerHTML = `${stateClass} Population: ${value3}`;
+        document.getElementById("ratio").innerHTML = `Percent of Cancer Deaths out of Total Deaths in ${stateClass}: ${roundedRatio}%`;
+        document.querySelectorAll(".value").forEach(el => el.style.display = 'block');
+        document.getElementById("qual_data").innerHTML = `The percent of cancer deaths out of total deaths in ${stateClass} was ${qual_data} the percent of cancer deaths out of total deaths in America`;
+
+    }
+
+
+
+    function hideValue() {
+        document.getElementById("value").style.display = 'none';
+    }
+    </script>
+    <footer> {% include 'footer.html' %} </footer>
+</body>
+</html>

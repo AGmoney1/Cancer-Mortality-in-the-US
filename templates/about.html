@@ -1,0 +1,72 @@
+<html>
+
+<head>
+  <title>Cancer Mortality in America</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+  <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+  <h1>Cancer Mortality in America</h1>
+  <nav>{% include 'nav.html' %} </nav>
+  <p class="about_title">Webpage Context: </p>
+  <p>This webpage investigates how cancer mortality rates have changed from 1999-2020. Specifically, this page looks into the mortality of the 
+    4 most deadly cancers: colon and rectum, lung and bronchus, female breast, and prostate.</p>
+  <p>For me, mortality surrounding cancer has always been a topic of interest for me as cancer gravely affected both of my paternal grandparents. This project gave me the 
+    lens to investigate cancer mortality over time from an analytical perspective, allowing me to gain insight on cancer mortality throughout America since 1999.
+  </p>
+
+  <p class="about_title">Data Pipeline: </p>
+  <p id="prototype_label"> <text>1. Go to the <a class="data_link" href="https://wonder.cdc.gov/">CDC Wonder database</a> and click on Cancer Statistics</text></p>
+  <p id="prototype_label"> <text>2. Select the parameters that will narrow down the data</text></p>
+  <p id="prototype_label"> <text>3. Copy the data into a Google Sheets, and remove any excess cells</text></p>
+  <p id="prototype_label"> <text>4. Export that data as a .csv (comma separated value) file, and upload that file to a data folder</text></p>
+  <p id="prototype_label"> <text>5. Create and run a python code that converts the .csv file into dictionary which is stored in a .json file. Now all the data is in a format that is easy to access.</text></p>  
+  <p id="prototype_label"> <text>6. Go back to the <a class="data_link" href="https://wonder.cdc.gov/">CDC Wonder database</a> and click on Underlying Cause of Death</text></p>
+  <p id="prototype_label"> <text>7. Repeat steps 2-5 with data on death and population. Now all the data is organized and ready to be used.</text></p>
+
+
+
+
+
+  <p class="about_title">Vocabulary: </p>
+  <p>Cancer: a disease caused by an uncontrolled division of abnormal cells in a part of the body.</p>
+  <p>Colon cancer (also known as cororectal cancer): A growth of cells that forms in the lower end of the digestive tract. Most of these cancers start as noncancerous growths called polyps.</p>
+  <p>Lung and bronchus cancer: Damaged cells dividing uncontrollably create masses, or tumors, of tissue that eventually keep your lungs from working properly.</p>
+  <p>Female breast cancer: A disease in which damaged cells in the breast grow out of control.</p>
+  <p>Prostate cancer: When cells in the prostate gland start to grow out of control. The prostate is a gland found only in males. </p>
+  <p>Mortality rate: A measure of the number of deaths in a particular population, scaled to the size of that population. </p>
+  <p class="about_title">Prototypes: </p>
+  <div> 
+    <text class="prototype_label">Map:</text>
+    <img src="/IMG_0829.jpg" alt="Macro prototype"> 
+
+  </div>
+  <div> 
+    <text class="prototype_label">Line Graph:</text>
+    <img src="/IMG_0830.jpg" alt="Micro prototype">
+  </div>
+  <div>
+    <p class="prototype_label"> <text>Peer Feedback:</text> </p>
+    <p id="feedback"> <text> I received feedback from three of my peers. Each piece of feedback was able to identify that the map would show my investigation into how cancer 
+      affects each state different, and the line graph would show details about the types of data. The constructive criticism was broader, with no repetitions. The main 
+      takeaways from the constructive criticism were to add more color to both of my graphs, and to incorporate some aspect of qualitative text on with both graphs.</text></p>
+    </div>
+    <p class="prototype_label"> <text>Takeaways:</text> </p>
+    <p id="feedback"> <text>From the feedback, and a little self-criticism, I decided to modify my line graph a little. I changed it from a graph simply showing the amount 
+      of deaths by cancer each year, to a graph that showed how the number of deaths by different cancer types composed the total amount of deaths by cancer each year. 
+      This choice allowed me to incorporate a smoother use of color, and to demonstate my data in a much more streamlined way.
+    </text></p>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script> </script>
+  <footer> {% include 'footer.html' %} </footer> 
+
+
+
+
+
+  
+</body>
+
+</html>

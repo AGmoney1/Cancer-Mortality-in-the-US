@@ -1,1224 +1,1122 @@
-1999,Alabama,4 369 86
-1999,Alaska,619 5
-1999,Arizona,4 778 33
-1999,Arkansas,2 551 37
-1999,California,33 145 12
-1999,Colorado,4 056 13
-1999,Connecticut,3 282 03
-1999,Delaware,753 538
-1999,District of Columbia,519
-1999,Florida,15 111 24
-1999,Georgia,7 788 24
-1999,Hawaii,1 185 50
-1999,Idaho,1 251 70
-1999,Illinois,12 128 37
-1999,Indiana,5 942 90
-1999,Iowa,2 869 41
-1999,Kansas,2 654 05
-1999,Kentucky,3 960 83
-1999,Louisiana,4 372 04
-1999,Maine,1 253 04
-1999,Maryland,5 171 63
-1999,Massachusetts,6 175 17
-1999,Michigan,9 863 78
-1999,Minnesota,4 775 51
-1999,Mississippi,2 768 62
-1999,Missouri,5 468 34
-1999,Montana,882 779
-1999,Nebraska,1 666 03
-1999,Nevada,1 809 25
-1999,New Hampshire,1 201 13
-1999,New Jersey,8 143 41
-1999,New Mexico,1 739 84
-1999,New York,18 196 60
-1999,North Carolina,7 650 79
-1999,North Dakota,633 666
-1999,Ohio,11 256 65
-1999,Oklahoma,3 358 04
-1999,Oregon,3 316 15
-1999,Pennsylvania,11 994 02
-1999,Rhode Island,990 819
-1999,South Carolina,3 885 74
-1999,South Dakota,733 133
-1999,Tennessee,5 483 54
-1999,Texas,20 044 14
-1999,Utah,2 129 84
-1999,Vermont,593 74
-1999,Virginia,6 872 91
-1999,Washington,5 756 36
-1999,West Virginia,1 806 93
-1999,Wisconsin,5 250 45
-1999,Wyoming,479 602
-2000,Alabama,4 452 17
-2000,Alaska,627 963
-2000,Arizona,5 160 59
-2000,Arkansas,2 678 59
-2000,California,33 987 98
-2000,Colorado,4 326 92
-2000,Connecticut,3 411 78
-2000,Delaware,786 373
-2000,District of Columbia,572 046
-2000,Florida,16 047 52
-2000,Georgia,8 227 30
-2000,Hawaii,1 213 52
-2000,Idaho,1 299 43
-2000,Illinois,12 434 16
-2000,Indiana,6 091 87
-2000,Iowa,2 929 07
-2000,Kansas,2 693 68
-2000,Kentucky,4 049 02
-2000,Louisiana,4 471 89
-2000,Maine,1 277 07
-2000,Maryland,5 311 03
-2000,Massachusetts,6 361 10
-2000,Michigan,9 952 45
-2000,Minnesota,4 933 69
-2000,Mississippi,2 848 35
-2000,Missouri,5 607 29
-2000,Montana,903 773
-2000,Nebraska,1 713 82
-2000,Nevada,2 018 74
-2000,New Hampshire,1 239 88
-2000,New Jersey,8 430 62
-2000,New Mexico,1 821 20
-2000,New York,19 001 78
-2000,North Carolina,8 081 61
-2000,North Dakota,642 023
-2000,Ohio,11 363 54
-2000,Oklahoma,3 454 37
-2000,Oregon,3 429 71
-2000,Pennsylvania,12 284 17
-2000,Rhode Island,1 050 27
-2000,South Carolina,4 024 22
-2000,South Dakota,755 844
-2000,Tennessee,5 703 72
-2000,Texas,20 944 50
-2000,Utah,2 244 50
-2000,Vermont,609 618
-2000,Virginia,7 105 82
-2000,Washington,5 910 51
-2000,West Virginia,1 807 02
-2000,Wisconsin,5 374 00
-2000,Wyoming,494 3
-2001,Alabama,4 467 63
-2001,Alaska,633 714
-2001,Arizona,5 273 48
-2001,Arkansas,2 691 57
-2001,California,34 479 46
-2001,Colorado,4 425 69
-2001,Connecticut,3 432 84
-2001,Delaware,795 699
-2001,District of Columbia,574 504
-2001,Florida,16 356 97
-2001,Georgia,8 377 04
-2001,Hawaii,1 225 95
-2001,Idaho,1 319 96
-2001,Illinois,12 488 45
-2001,Indiana,6 127 76
-2001,Iowa,2 932 00
-2001,Kansas,2 702 16
-2001,Kentucky,4 068 13
-2001,Louisiana,4 477 88
-2001,Maine,1 285 69
-2001,Maryland,5 374 69
-2001,Massachusetts,6 397 63
-2001,Michigan,9 991 12
-2001,Minnesota,4 982 80
-2001,Mississippi,2 852 99
-2001,Missouri,5 641 14
-2001,Montana,906 961
-2001,Nebraska,1 719 84
-2001,Nevada,2 098 40
-2001,New Hampshire,1 255 52
-2001,New Jersey,8 492 67
-2001,New Mexico,1 831 69
-2001,New York,19 082 84
-2001,North Carolina,8 210 12
-2001,North Dakota,639 062
-2001,Ohio,11 387 40
-2001,Oklahoma,3 467 10
-2001,Oregon,3 467 94
-2001,Pennsylvania,12 298 97
-2001,Rhode Island,1 057 14
-2001,South Carolina,4 065 00
-2001,South Dakota,757 972
-2001,Tennessee,5 750 79
-2001,Texas,21 319 62
-2001,Utah,2 283 72
-2001,Vermont,612 223
-2001,Virginia,7 198 36
-2001,Washington,5 985 72
-2001,West Virginia,1 801 48
-2001,Wisconsin,5 406 84
-2001,Wyoming,494 657
-2002,Alabama,4 480 09
-2002,Alaska,642 337
-2002,Arizona,5 396 26
-2002,Arkansas,2 705 93
-2002,California,34 871 84
-2002,Colorado,4 490 41
-2002,Connecticut,3 458 75
-2002,Delaware,806 169
-2002,District of Columbia,573 158
-2002,Florida,16 689 37
-2002,Georgia,8 508 26
-2002,Hawaii,1 239 61
-2002,Idaho,1 340 37
-2002,Illinois,12 525 56
-2002,Indiana,6 155 97
-2002,Iowa,2 934 23
-2002,Kansas,2 713 54
-2002,Kentucky,4 089 88
-2002,Louisiana,4 497 27
-2002,Maine,1 295 96
-2002,Maryland,5 440 39
-2002,Massachusetts,6 417 21
-2002,Michigan,10 015 71
-2002,Minnesota,5 018 94
-2002,Mississippi,2 858 68
-2002,Missouri,5 674 83
-2002,Montana,911 667
-2002,Nebraska,1 728 29
-2002,Nevada,2 173 79
-2002,New Hampshire,1 269 09
-2002,New Jersey,8 552 64
-2002,New Mexico,1 855 31
-2002,New York,19 137 80
-2002,North Carolina,8 326 20
-2002,North Dakota,638 168
-2002,Ohio,11 407 89
-2002,Oklahoma,3 489 08
-2002,Oregon,3 513 42
-2002,Pennsylvania,12 331 03
-2002,Rhode Island,1 066 00
-2002,South Carolina,4 107 80
-2002,South Dakota,760 02
-2002,Tennessee,5 795 92
-2002,Texas,21 690 33
-2002,Utah,2 324 82
-2002,Vermont,615 442
-2002,Virginia,7 286 87
-2002,Washington,6 052 35
-2002,West Virginia,1 805 41
-2002,Wisconsin,5 445 16
-2002,Wyoming,500 017
-2003,Alabama,4 503 49
-2003,Alaska,648 414
-2003,Arizona,5 510 36
-2003,Arkansas,2 724 82
-2003,California,35 253 16
-2003,Colorado,4 528 73
-2003,Connecticut,3 484 34
-2003,Delaware,818 003
-2003,District of Columbia,568 502
-2003,Florida,17 004 09
-2003,Georgia,8 622 79
-2003,Hawaii,1 251 15
-2003,Idaho,1 363 38
-2003,Illinois,12 556 01
-2003,Indiana,6 196 64
-2003,Iowa,2 942 00
-2003,Kansas,2 723 00
-2003,Kentucky,4 117 17
-2003,Louisiana,4 521 04
-2003,Maine,1 306 51
-2003,Maryland,5 496 27
-2003,Massachusetts,6 422 57
-2003,Michigan,10 041 15
-2003,Minnesota,5 053 57
-2003,Mississippi,2 868 31
-2003,Missouri,5 709 40
-2003,Montana,919 63
-2003,Nebraska,1 738 64
-2003,Nevada,2 248 85
-2003,New Hampshire,1 279 84
-2003,New Jersey,8 601 40
-2003,New Mexico,1 877 57
-2003,New York,19 175 94
-2003,North Carolina,8 422 50
-2003,North Dakota,638 817
-2003,Ohio,11 434 79
-2003,Oklahoma,3 504 89
-2003,Oregon,3 547 38
-2003,Pennsylvania,12 374 66
-2003,Rhode Island,1 071 34
-2003,South Carolina,4 150 30
-2003,South Dakota,763 729
-2003,Tennessee,5 847 81
-2003,Texas,22 030 93
-2003,Utah,2 360 14
-2003,Vermont,617 858
-2003,Virginia,7 366 98
-2003,Washington,6 104 12
-2003,West Virginia,1 812 30
-2003,Wisconsin,5 479 20
-2003,Wyoming,503 453
-2004,Alabama,4 530 73
-2004,Alaska,659 29
-2004,Arizona,5 652 40
-2004,Arkansas,2 749 69
-2004,California,35 574 58
-2004,Colorado,4 575 01
-2004,Connecticut,3 496 09
-2004,Delaware,830 80
-2004,District of Columbia,567 754
-2004,Florida,17 415 32
-2004,Georgia,8 769 25
-2004,Hawaii,1 273 57
-2004,Idaho,1 391 80
-2004,Illinois,12 589 77
-2004,Indiana,6 233 01
-2004,Iowa,2 953 64
-2004,Kansas,2 734 37
-2004,Kentucky,4 146 10
-2004,Louisiana,4 552 24
-2004,Maine,1 313 69
-2004,Maryland,5 546 94
-2004,Massachusetts,6 412 28
-2004,Michigan,10 055 32
-2004,Minnesota,5 087 71
-2004,Mississippi,2 889 01
-2004,Missouri,5 747 74
-2004,Montana,930 01
-2004,Nebraska,1 749 37
-2004,Nevada,2 346 22
-2004,New Hampshire,1 290 12
-2004,New Jersey,8 634 56
-2004,New Mexico,1 903 81
-2004,New York,19 171 57
-2004,North Carolina,8 553 15
-2004,North Dakota,644 71
-2004,Ohio,11 452 25
-2004,Oklahoma,3 525 23
-2004,Oregon,3 569 46
-2004,Pennsylvania,12 410 72
-2004,Rhode Island,1 074 58
-2004,South Carolina,4 210 92
-2004,South Dakota,770 40
-2004,Tennessee,5 910 81
-2004,Texas,22 394 02
-2004,Utah,2 401 58
-2004,Vermont,619 92
-2004,Virginia,7 475 58
-2004,Washington,6 178 65
-2004,West Virginia,1 816 44
-2004,Wisconsin,5 514 03
-2004,Wyoming,509 11
-2005,Alabama,4 569 81
-2005,Alaska,666 95
-2005,Arizona,5 839 08
-2005,Arkansas,2 781 10
-2005,California,35 827 94
-2005,Colorado,4 631 89
-2005,Connecticut,3 506 96
-2005,Delaware,845 15
-2005,District of Columbia,567 136
-2005,Florida,17 842 04
-2005,Georgia,8 925 92
-2005,Hawaii,1 292 73
-2005,Idaho,1 428 24
-2005,Illinois,12 609 90
-2005,Indiana,6 278 62
-2005,Iowa,2 964 45
-2005,Kansas,2 745 30
-2005,Kentucky,4 182 74
-2005,Louisiana,4 576 63
-2005,Maine,1 318 79
-2005,Maryland,5 592 38
-2005,Massachusetts,6 403 29
-2005,Michigan,10 051 14
-2005,Minnesota,5 119 60
-2005,Mississippi,2 905 94
-2005,Missouri,5 790 30
-2005,Montana,940 10
-2005,Nebraska,1 761 50
-2005,Nevada,2 432 14
-2005,New Hampshire,1 298 49
-2005,New Jersey,8 651 97
-2005,New Mexico,1 932 27
-2005,New York,19 132 61
-2005,North Carolina,8 705 41
-2005,North Dakota,646 09
-2005,Ohio,11 463 32
-2005,Oklahoma,3 548 60
-2005,Oregon,3 613 20
-2005,Pennsylvania,12 449 99
-2005,Rhode Island,1 067 92
-2005,South Carolina,4 270 15
-2005,South Dakota,775 49
-2005,Tennessee,5 991 06
-2005,Texas,22 778 12
-2005,Utah,2 457 72
-2005,Vermont,621 22
-2005,Virginia,7 577 11
-2005,Washington,6 257 31
-2005,West Virginia,1 820 49
-2005,Wisconsin,5 546 17
-2005,Wyoming,514 16
-2006,Alabama,4 628 98
-2006,Alaska,675 302
-2006,Arizona,6 029 14
-2006,Arkansas,2 821 76
-2006,California,36 021 20
-2006,Colorado,4 720 42
-2006,Connecticut,3 517 46
-2006,Delaware,859 268
-2006,District of Columbia,570 681
-2006,Florida,18 166 99
-2006,Georgia,9 155 81
-2006,Hawaii,1 309 73
-2006,Idaho,1 468 67
-2006,Illinois,12 643 96
-2006,Indiana,6 332 67
-2006,Iowa,2 982 64
-2006,Kansas,2 762 93
-2006,Kentucky,4 219 24
-2006,Louisiana,4 302 67
-2006,Maine,1 323 62
-2006,Maryland,5 627 37
-2006,Massachusetts,6 410 08
-2006,Michigan,10 036 08
-2006,Minnesota,5 163 56
-2006,Mississippi,2 904 98
-2006,Missouri,5 842 70
-2006,Montana,952 692
-2006,Nebraska,1 772 69
-2006,Nevada,2 522 66
-2006,New Hampshire,1 308 39
-2006,New Jersey,8 661 68
-2006,New Mexico,1 962 14
-2006,New York,19 104 63
-2006,North Carolina,8 917 27
-2006,North Dakota,649 422
-2006,Ohio,11 481 21
-2006,Oklahoma,3 594 09
-2006,Oregon,3 670 88
-2006,Pennsylvania,12 510 81
-2006,Rhode Island,1 063 10
-2006,South Carolina,4 357 85
-2006,South Dakota,783 033
-2006,Tennessee,6 088 77
-2006,Texas,23 359 58
-2006,Utah,2 525 51
-2006,Vermont,622 892
-2006,Virginia,7 673 73
-2006,Washington,6 370 75
-2006,West Virginia,1 827 91
-2006,Wisconsin,5 577 66
-2006,Wyoming,522 667
-2007,Alabama,4 672 84
-2007,Alaska,680 3
-2007,Arizona,6 167 68
-2007,Arkansas,2 848 65
-2007,California,36 250 31
-2007,Colorado,4 803 87
-2007,Connecticut,3 527 27
-2007,Delaware,871 749
-2007,District of Columbia,574 404
-2007,Florida,18 367 84
-2007,Georgia,9 349 99
-2007,Hawaii,1 315 68
-2007,Idaho,1 505 11
-2007,Illinois,12 695 87
-2007,Indiana,6 379 60
-2007,Iowa,2 999 21
-2007,Kansas,2 783 79
-2007,Kentucky,4 256 67
-2007,Louisiana,4 375 58
-2007,Maine,1 327 04
-2007,Maryland,5 653 41
-2007,Massachusetts,6 431 56
-2007,Michigan,10 001 28
-2007,Minnesota,5 207 20
-2007,Mississippi,2 928 35
-2007,Missouri,5 887 61
-2007,Montana,964 706
-2007,Nebraska,1 783 44
-2007,Nevada,2 601 07
-2007,New Hampshire,1 312 54
-2007,New Jersey,8 677 89
-2007,New Mexico,1 990 07
-2007,New York,19 132 34
-2007,North Carolina,9 118 04
-2007,North Dakota,652 822
-2007,Ohio,11 500 47
-2007,Oklahoma,3 634 35
-2007,Oregon,3 722 42
-2007,Pennsylvania,12 563 94
-2007,Rhode Island,1 057 32
-2007,South Carolina,4 444 11
-2007,South Dakota,791 623
-2007,Tennessee,6 175 73
-2007,Texas,23 831 98
-2007,Utah,2 597 75
-2007,Vermont,623 481
-2007,Virginia,7 751 00
-2007,Washington,6 461 59
-2007,West Virginia,1 834 05
-2007,Wisconsin,5 610 78
-2007,Wyoming,534 876
-2008,Alabama,4 718 21
-2008,Alaska,687 455
-2008,Arizona,6 280 36
-2008,Arkansas,2 874 55
-2008,California,36 604 34
-2008,Colorado,4 889 73
-2008,Connecticut,3 545 58
-2008,Delaware,883 874
-2008,District of Columbia,580 236
-2008,Florida,18 527 31
-2008,Georgia,9 504 84
-2008,Hawaii,1 332 21
-2008,Idaho,1 534 32
-2008,Illinois,12 747 04
-2008,Indiana,6 424 81
-2008,Iowa,3 016 73
-2008,Kansas,2 808 08
-2008,Kentucky,4 289 88
-2008,Louisiana,4 435 59
-2008,Maine,1 330 51
-2008,Maryland,5 684 97
-2008,Massachusetts,6 468 97
-2008,Michigan,9 946 89
-2008,Minnesota,5 247 02
-2008,Mississippi,2 947 81
-2008,Missouri,5 923 92
-2008,Montana,976 415
-2008,Nebraska,1 796 38
-2008,Nevada,2 653 63
-2008,New Hampshire,1 315 91
-2008,New Jersey,8 711 09
-2008,New Mexico,2 010 66
-2008,New York,19 212 44
-2008,North Carolina,9 309 45
-2008,North Dakota,657 569
-2008,Ohio,11 515 39
-2008,Oklahoma,3 668 98
-2008,Oregon,3 768 75
-2008,Pennsylvania,12 612 29
-2008,Rhode Island,1 055 00
-2008,South Carolina,4 529 00
-2008,South Dakota,799 124
-2008,Tennessee,6 247 41
-2008,Texas,24 309 04
-2008,Utah,2 663 03
-2008,Vermont,624 151
-2008,Virginia,7 833 50
-2008,Washington,6 562 23
-2008,West Virginia,1 840 31
-2008,Wisconsin,5 641 00
-2008,Wyoming,546 043
-2009,Alabama,4 757 94
-2009,Alaska,698 895
-2009,Arizona,6 343 15
-2009,Arkansas,2 896 84
-2009,California,36 961 23
-2009,Colorado,4 972 20
-2009,Connecticut,3 561 81
-2009,Delaware,891 73
-2009,District of Columbia,592 228
-2009,Florida,18 652 64
-2009,Georgia,9 620 85
-2009,Hawaii,1 346 72
-2009,Idaho,1 554 44
-2009,Illinois,12 796 78
-2009,Indiana,6 459 33
-2009,Iowa,3 032 87
-2009,Kansas,2 832 70
-2009,Kentucky,4 317 07
-2009,Louisiana,4 491 65
-2009,Maine,1 329 59
-2009,Maryland,5 730 39
-2009,Massachusetts,6 517 61
-2009,Michigan,9 901 59
-2009,Minnesota,5 281 20
-2009,Mississippi,2 958 77
-2009,Missouri,5 961 09
-2009,Montana,983 982
-2009,Nebraska,1 812 68
-2009,Nevada,2 684 67
-2009,New Hampshire,1 316 10
-2009,New Jersey,8 755 60
-2009,New Mexico,2 036 80
-2009,New York,19 307 07
-2009,North Carolina,9 449 57
-2009,North Dakota,664 968
-2009,Ohio,11 528 90
-2009,Oklahoma,3 717 57
-2009,Oregon,3 808 60
-2009,Pennsylvania,12 666 86
-2009,Rhode Island,1 053 65
-2009,South Carolina,4 589 87
-2009,South Dakota,807 067
-2009,Tennessee,6 306 02
-2009,Texas,24 801 76
-2009,Utah,2 723 42
-2009,Vermont,624 817
-2009,Virginia,7 925 94
-2009,Washington,6 667 43
-2009,West Virginia,1 847 78
-2009,Wisconsin,5 669 26
-2009,Wyoming,559 851
-2010,Alabama,4 785 51
-2010,Alaska,713 982
-2010,Arizona,6 407 34
-2010,Arkansas,2 922 00
-2010,California,37 319 55
-2010,Colorado,5 047 54
-2010,Connecticut,3 579 17
-2010,Delaware,899 647
-2010,District of Columbia,605 282
-2010,Florida,18 846 14
-2010,Georgia,9 712 21
-2010,Hawaii,1 364 00
-2010,Idaho,1 570 82
-2010,Illinois,12 840 55
-2010,Indiana,6 490 56
-2010,Iowa,3 050 82
-2010,Kansas,2 858 27
-2010,Kentucky,4 348 46
-2010,Louisiana,4 544 64
-2010,Maine,1 327 65
-2010,Maryland,5 788 78
-2010,Massachusetts,6 566 44
-2010,Michigan,9 877 60
-2010,Minnesota,5 310 93
-2010,Mississippi,2 970 62
-2010,Missouri,5 996 09
-2010,Montana,990 73
-2010,Nebraska,1 829 59
-2010,Nevada,2 702 48
-2010,New Hampshire,1 316 81
-2010,New Jersey,8 799 45
-2010,New Mexico,2 064 61
-2010,New York,19 399 96
-2010,North Carolina,9 574 59
-2010,North Dakota,674 752
-2010,Ohio,11 539 45
-2010,Oklahoma,3 760 01
-2010,Oregon,3 837 61
-2010,Pennsylvania,12 711 41
-2010,Rhode Island,1 053 99
-2010,South Carolina,4 635 85
-2010,South Dakota,816 193
-2010,Tennessee,6 355 52
-2010,Texas,25 241 90
-2010,Utah,2 775 41
-2010,Vermont,625 886
-2010,Virginia,8 024 00
-2010,Washington,6 743 01
-2010,West Virginia,1 854 27
-2010,Wisconsin,5 690 54
-2010,Wyoming,564 531
-2011,Alabama,4 799 64
-2011,Alaska,722 349
-2011,Arizona,6 473 42
-2011,Arkansas,2 941 04
-2011,California,37 636 31
-2011,Colorado,5 121 90
-2011,Connecticut,3 588 63
-2011,Delaware,907 59
-2011,District of Columbia,620 29
-2011,Florida,19 055 61
-2011,Georgia,9 803 63
-2011,Hawaii,1 379 56
-2011,Idaho,1 584 27
-2011,Illinois,12 867 78
-2011,Indiana,6 517 25
-2011,Iowa,3 066 77
-2011,Kansas,2 869 68
-2011,Kentucky,4 370 82
-2011,Louisiana,4 576 24
-2011,Maine,1 328 47
-2011,Maryland,5 840 24
-2011,Massachusetts,6 614 22
-2011,Michigan,9 883 05
-2011,Minnesota,5 346 62
-2011,Mississippi,2 979 15
-2011,Missouri,6 011 18
-2011,Montana,997 52
-2011,Nebraska,1 840 91
-2011,Nevada,2 713 11
-2011,New Hampshire,1 320 44
-2011,New Jersey,8 828 55
-2011,New Mexico,2 080 71
-2011,New York,19 499 92
-2011,North Carolina,9 658 91
-2011,North Dakota,685 526
-2011,Ohio,11 545 74
-2011,Oklahoma,3 788 82
-2011,Oregon,3 872 67
-2011,Pennsylvania,12 747 05
-2011,Rhode Island,1 053 83
-2011,South Carolina,4 672 66
-2011,South Dakota,823 74
-2011,Tennessee,6 400 30
-2011,Texas,25 645 50
-2011,Utah,2 814 80
-2011,Vermont,627 197
-2011,Virginia,8 102 44
-2011,Washington,6 827 48
-2011,West Virginia,1 856 61
-2011,Wisconsin,5 705 84
-2011,Wyoming,567 491
-2012,Alabama,4 816 63
-2012,Alaska,730 81
-2012,Arizona,6 556 34
-2012,Arkansas,2 952 88
-2012,California,37 944 55
-2012,Colorado,5 193 66
-2012,Connecticut,3 595 21
-2012,Delaware,915 518
-2012,District of Columbia,635 737
-2012,Florida,19 302 02
-2012,Georgia,9 903 58
-2012,Hawaii,1 395 20
-2012,Idaho,1 595 91
-2012,Illinois,12 883 03
-2012,Indiana,6 538 99
-2012,Iowa,3 076 84
-2012,Kansas,2 886 02
-2012,Kentucky,4 387 87
-2012,Louisiana,4 602 07
-2012,Maine,1 328 09
-2012,Maryland,5 888 38
-2012,Massachusetts,6 664 27
-2012,Michigan,9 898 29
-2012,Minnesota,5 377 50
-2012,Mississippi,2 984 60
-2012,Missouri,6 026 03
-2012,Montana,1 004 17
-2012,Nebraska,1 853 69
-2012,Nevada,2 744 67
-2012,New Hampshire,1 324 68
-2012,New Jersey,8 845 67
-2012,New Mexico,2 087 72
-2012,New York,19 574 36
-2012,North Carolina,9 751 81
-2012,North Dakota,702 227
-2012,Ohio,11 550 97
-2012,Oklahoma,3 819 32
-2012,Oregon,3 900 10
-2012,Pennsylvania,12 769 12
-2012,Rhode Island,1 054 89
-2012,South Carolina,4 719 03
-2012,South Dakota,833 859
-2012,Tennessee,6 455 75
-2012,Texas,26 084 12
-2012,Utah,2 854 15
-2012,Vermont,626 361
-2012,Virginia,8 187 46
-2012,Washington,6 898 60
-2012,West Virginia,1 857 45
-2012,Wisconsin,5 720 83
-2012,Wyoming,576 656
-2013,Alabama,4 831 59
-2013,Alaska,737 626
-2013,Arizona,6 634 69
-2013,Arkansas,2 960 46
-2013,California,38 253 77
-2013,Colorado,5 270 77
-2013,Connecticut,3 595 79
-2013,Delaware,924 062
-2013,District of Columbia,651 559
-2013,Florida,19 551 68
-2013,Georgia,9 975 59
-2013,Hawaii,1 408 82
-2013,Idaho,1 612 05
-2013,Illinois,12 895 78
-2013,Indiana,6 570 58
-2013,Iowa,3 093 94
-2013,Kansas,2 894 31
-2013,Kentucky,4 406 91
-2013,Louisiana,4 626 04
-2013,Maine,1 328 54
-2013,Maryland,5 925 20
-2013,Massachusetts,6 715 16
-2013,Michigan,9 914 80
-2013,Minnesota,5 414 72
-2013,Mississippi,2 989 84
-2013,Missouri,6 042 99
-2013,Montana,1 014 16
-2013,Nebraska,1 865 81
-2013,Nevada,2 776 96
-2013,New Hampshire,1 327 27
-2013,New Jersey,8 857 82
-2013,New Mexico,2 092 83
-2013,New York,19 626 49
-2013,North Carolina,9 846 72
-2013,North Dakota,723 149
-2013,Ohio,11 579 69
-2013,Oklahoma,3 853 89
-2013,Oregon,3 924 11
-2013,Pennsylvania,12 779 54
-2013,Rhode Island,1 055 56
-2013,South Carolina,4 766 47
-2013,South Dakota,842 751
-2013,Tennessee,6 496 94
-2013,Texas,26 479 65
-2013,Utah,2 898 77
-2013,Vermont,626 603
-2013,Virginia,8 255 86
-2013,Washington,6 966 25
-2013,West Virginia,1 854 77
-2013,Wisconsin,5 738 01
-2013,Wyoming,582 62
-2014,Alabama,4 843 74
-2014,Alaska,737 075
-2014,Arizona,6 732 87
-2014,Arkansas,2 968 76
-2014,California,38 586 71
-2014,Colorado,5 352 64
-2014,Connecticut,3 595 70
-2014,Delaware,933 131
-2014,District of Columbia,663 603
-2014,Florida,19 853 88
-2014,Georgia,10 071 20
-2014,Hawaii,1 415 34
-2014,Idaho,1 632 25
-2014,Illinois,12 885 09
-2014,Indiana,6 596 02
-2014,Iowa,3 110 64
-2014,Kansas,2 901 86
-2014,Kentucky,4 416 99
-2014,Louisiana,4 645 94
-2014,Maine,1 331 22
-2014,Maryland,5 960 06
-2014,Massachusetts,6 764 86
-2014,Michigan,9 932 03
-2014,Minnesota,5 452 67
-2014,Mississippi,2 991 89
-2014,Missouri,6 059 13
-2014,Montana,1 022 66
-2014,Nebraska,1 879 96
-2014,Nevada,2 818 94
-2014,New Hampshire,1 334 26
-2014,New Jersey,8 867 28
-2014,New Mexico,2 090 24
-2014,New York,19 653 43
-2014,North Carolina,9 937 30
-2014,North Dakota,738 736
-2014,Ohio,11 606 57
-2014,Oklahoma,3 879 19
-2014,Oregon,3 965 45
-2014,Pennsylvania,12 792 39
-2014,Rhode Island,1 056 51
-2014,South Carolina,4 826 86
-2014,South Dakota,849 67
-2014,Tennessee,6 544 62
-2014,Texas,26 963 09
-2014,Utah,2 938 33
-2014,Vermont,625 693
-2014,Virginia,8 315 43
-2014,Washington,7 057 53
-2014,West Virginia,1 850 57
-2014,Wisconsin,5 753 20
-2014,Wyoming,583 159
-2015,Alabama,4 854 80
-2015,Alaska,738 43
-2015,Arizona,6 832 81
-2015,Arkansas,2 979 73
-2015,California,38 904 30
-2015,Colorado,5 454 33
-2015,Connecticut,3 588 56
-2015,Delaware,942 07
-2015,District of Columbia,677 014
-2015,Florida,20 219 11
-2015,Georgia,10 183 35
-2015,Hawaii,1 423 00
-2015,Idaho,1 652 50
-2015,Illinois,12 859 59
-2015,Indiana,6 611 44
-2015,Iowa,3 122 54
-2015,Kansas,2 910 72
-2015,Kentucky,4 429 13
-2015,Louisiana,4 667 00
-2015,Maine,1 329 10
-2015,Maryland,5 988 53
-2015,Massachusetts,6 797 48
-2015,Michigan,9 934 48
-2015,Minnesota,5 484 00
-2015,Mississippi,2 990 23
-2015,Missouri,6 075 41
-2015,Montana,1 031 50
-2015,Nebraska,1 892 06
-2015,Nevada,2 868 53
-2015,New Hampshire,1 337 48
-2015,New Jersey,8 870 31
-2015,New Mexico,2 090 07
-2015,New York,19 657 32
-2015,North Carolina,10 037 22
-2015,North Dakota,755 54
-2015,Ohio,11 622 32
-2015,Oklahoma,3 910 52
-2015,Oregon,4 018 54
-2015,Pennsylvania,12 789 84
-2015,Rhode Island,1 056 89
-2015,South Carolina,4 896 01
-2015,South Dakota,854 66
-2015,Tennessee,6 595 35
-2015,Texas,27 468 53
-2015,Utah,2 983 63
-2015,Vermont,625 81
-2015,Virginia,8 367 30
-2015,Washington,7 167 29
-2015,West Virginia,1 843 33
-2015,Wisconsin,5 762 93
-2015,Wyoming,586 39
-2016,Alabama,4 866 82
-2016,Alaska,742 58
-2016,Arizona,6 944 77
-2016,Arkansas,2 991 82
-2016,California,39 149 19
-2016,Colorado,5 543 84
-2016,Connecticut,3 579 83
-2016,Delaware,949 99
-2016,District of Columbia,687 58
-2016,Florida,20 627 24
-2016,Georgia,10 308 44
-2016,Hawaii,1 428 89
-2016,Idaho,1 684 04
-2016,Illinois,12 821 71
-2016,Indiana,6 637 90
-2016,Iowa,3 133 21
-2016,Kansas,2 912 98
-2016,Kentucky,4 440 31
-2016,Louisiana,4 681 35
-2016,Maine,1 332 35
-2016,Maryland,6 007 01
-2016,Massachusetts,6 827 28
-2016,Michigan,9 954 12
-2016,Minnesota,5 525 36
-2016,Mississippi,2 990 60
-2016,Missouri,6 091 38
-2016,Montana,1 042 14
-2016,Nebraska,1 906 48
-2016,Nevada,2 919 56
-2016,New Hampshire,1 343 69
-2016,New Jersey,8 873 58
-2016,New Mexico,2 092 56
-2016,New York,19 636 39
-2016,North Carolina,10 161 80
-2016,North Dakota,756 11
-2016,Ohio,11 640 06
-2016,Oklahoma,3 928 14
-2016,Oregon,4 093 27
-2016,Pennsylvania,12 788 47
-2016,Rhode Island,1 057 82
-2016,South Carolina,4 963 03
-2016,South Dakota,863 69
-2016,Tennessee,6 651 28
-2016,Texas,27 914 06
-2016,Utah,3 044 24
-2016,Vermont,624 37
-2016,Virginia,8 417 65
-2016,Washington,7 299 96
-2016,West Virginia,1 832 44
-2016,Wisconsin,5 775 17
-2016,Wyoming,585 243
-2017,Alabama,4 877 99
-2017,Alaska,740 98
-2017,Arizona,7 048 09
-2017,Arkansas,3 003 86
-2017,California,39 337 79
-2017,Colorado,5 617 42
-2017,Connecticut,3 575 32
-2017,Delaware,957 942
-2017,District of Columbia,697 08
-2017,Florida,20 977 09
-2017,Georgia,10 417 03
-2017,Hawaii,1 425 76
-2017,Idaho,1 719 75
-2017,Illinois,12 779 89
-2017,Indiana,6 662 07
-2017,Iowa,3 143 73
-2017,Kansas,2 910 89
-2017,Kentucky,4 455 59
-2017,Louisiana,4 673 67
-2017,Maine,1 335 74
-2017,Maryland,6 028 19
-2017,Massachusetts,6 863 56
-2017,Michigan,9 976 75
-2017,Minnesota,5 569 28
-2017,Mississippi,2 990 67
-2017,Missouri,6 111 38
-2017,Montana,1 053 86
-2017,Nebraska,1 917 00
-2017,Nevada,2 972 10
-2017,New Hampshire,1 350 40
-2017,New Jersey,8 888 15
-2017,New Mexico,2 092 84
-2017,New York,19 593 85
-2017,North Carolina,10 275 76
-2017,North Dakota,756 76
-2017,Ohio,11 665 71
-2017,Oklahoma,3 933 60
-2017,Oregon,4 147 29
-2017,Pennsylvania,12 794 68
-2017,Rhode Island,1 056 55
-2017,South Carolina,5 027 10
-2017,South Dakota,873 73
-2017,Tennessee,6 714 75
-2017,Texas,28 291 02
-2017,Utah,3 103 54
-2017,Vermont,625 13
-2017,Virginia,8 471 01
-2017,Washington,7 427 95
-2017,West Virginia,1 818 68
-2017,Wisconsin,5 793 15
-2017,Wyoming,579 994
-2018,Alabama,4 891 63
-2018,Alaska,736 62
-2018,Arizona,7 164 23
-2018,Arkansas,3 012 16
-2018,California,39 437 46
-2018,Colorado,5 697 16
-2018,Connecticut,3 574 56
-2018,Delaware,966 985
-2018,District of Columbia,704 15
-2018,Florida,21 254 93
-2018,Georgia,10 519 39
-2018,Hawaii,1 423 10
-2018,Idaho,1 752 07
-2018,Illinois,12 724 69
-2018,Indiana,6 698 48
-2018,Iowa,3 149 90
-2018,Kansas,2 912 75
-2018,Kentucky,4 464 27
-2018,Louisiana,4 664 45
-2018,Maine,1 340 12
-2018,Maryland,6 042 15
-2018,Massachusetts,6 885 72
-2018,Michigan,9 987 29
-2018,Minnesota,5 608 76
-2018,Mississippi,2 982 88
-2018,Missouri,6 125 99
-2018,Montana,1 061 82
-2018,Nebraska,1 925 51
-2018,Nevada,3 030 73
-2018,New Hampshire,1 355 06
-2018,New Jersey,8 891 73
-2018,New Mexico,2 093 75
-2018,New York,19 544 10
-2018,North Carolina,10 391 36
-2018,North Dakota,760 06
-2018,Ohio,11 680 89
-2018,Oklahoma,3 943 49
-2018,Oregon,4 183 54
-2018,Pennsylvania,12 809 11
-2018,Rhode Island,1 059 34
-2018,South Carolina,5 091 70
-2018,South Dakota,879 39
-2018,Tennessee,6 778 18
-2018,Texas,28 624 56
-2018,Utah,3 155 15
-2018,Vermont,624 80
-2018,Virginia,8 510 92
-2018,Washington,7 526 79
-2018,West Virginia,1 805 95
-2018,Wisconsin,5 809 32
-2018,Wyoming,579 054
-2019,Alabama,4 907 97
-2019,Alaska,733 60
-2019,Arizona,7 291 84
-2019,Arkansas,3 020 99
-2019,California,39 437 61
-2019,Colorado,5 758 49
-2019,Connecticut,3 566 02
-2019,Delaware,976 67
-2019,District of Columbia,708 25
-2019,Florida,21 492 06
-2019,Georgia,10 628 02
-2019,Hawaii,1 415 62
-2019,Idaho,1 789 06
-2019,Illinois,12 667 02
-2019,Indiana,6 731 01
-2019,Iowa,3 159 60
-2019,Kansas,2 912 64
-2019,Kentucky,4 472 35
-2019,Louisiana,4 658 29
-2019,Maine,1 345 77
-2019,Maryland,6 054 95
-2019,Massachusetts,6 894 88
-2019,Michigan,9 984 80
-2019,Minnesota,5 640 05
-2019,Mississippi,2 978 23
-2019,Missouri,6 140 48
-2019,Montana,1 070 12
-2019,Nebraska,1 932 57
-2019,Nevada,3 090 77
-2019,New Hampshire,1 360 78
-2019,New Jersey,8 891 26
-2019,New Mexico,2 099 63
-2019,New York,19 463 13
-2019,North Carolina,10 501 38
-2019,North Dakota,763 72
-2019,Ohio,11 696 51
-2019,Oklahoma,3 960 68
-2019,Oregon,4 216 12
-2019,Pennsylvania,12 798 88
-2019,Rhode Island,1 058 16
-2019,South Carolina,5 157 70
-2019,South Dakota,887 13
-2019,Tennessee,6 830 33
-2019,Texas,28 986 79
-2019,Utah,3 203 38
-2019,Vermont,624 05
-2019,Virginia,8 556 64
-2019,Washington,7 614 02
-2019,West Virginia,1 795 26
-2019,Wisconsin,5 824 58
-2019,Wyoming,580 12
-2020,Alabama,5 031 86
-2020,Alaska,732 96
-2020,Arizona,7 186 68
-2020,Arkansas,3 014 35
-2020,California,39 503 20
-2020,Colorado,5 785 22
-2020,Connecticut,3 577 59
-2020,Delaware,991 86
-2020,District of Columbia,670 84
-2020,Florida,21 591 30
-2020,Georgia,10 732 39
-2020,Hawaii,1 451 18
-2020,Idaho,1 849 34
-2020,Illinois,12 790 36
-2020,Indiana,6 789 10
-2020,Iowa,3 190 90
-2020,Kansas,2 938 12
-2020,Kentucky,4 508 16
-2020,Louisiana,4 652 02
-2020,Maine,1 364 52
-2020,Maryland,6 173 69
-2020,Massachusetts,6 997 71
-2020,Michigan,10 070 63
-2020,Minnesota,5 710 58
-2020,Mississippi,2 958 41
-2020,Missouri,6 154 43
-2020,Montana,1 087 21
-2020,Nebraska,1 963 27
-2020,Nevada,3 115 84
-2020,New Hampshire,1 378 70
-2020,New Jersey,9 272 39
-2020,New Mexico,2 118 49
-2020,New York,20 104 71
-2020,North Carolina,10 453 81
-2020,North Dakota,779 56
-2020,Ohio,11 798 29
-2020,Oklahoma,3 965 23
-2020,Oregon,4 245 04
-2020,Pennsylvania,12 995 48
-2020,Rhode Island,1 096 44
-2020,South Carolina,5 132 15
-2020,South Dakota,887 85
-2020,Tennessee,6 926 09
-2020,Texas,29 234 36
-2020,Utah,3 283 98
-2020,Vermont,642 936
-2020,Virginia,8 637 19
-2020,Washington,7 724 57
-2020,West Virginia,1 791 56
-2020,Wisconsin,5 896 70
-2020,Wyoming,577 664
-2021,Alabama,5 050 38
-2021,Alaska,734 923
-2021,Arizona,7 272 49
-2021,Arkansas,3 028 44
-2021,California,39 145 06
-2021,Colorado,5 811 60
-2021,Connecticut,3 603 69
-2021,Delaware,1 004 88
-2021,District of Columbia,669 04
-2021,Florida,21 830 71
-2021,Georgia,10 790 39
-2021,Hawaii,1 446 75
-2021,Idaho,1 904 54
-2021,Illinois,12 690 34
-2021,Indiana,6 813 80
-2021,Iowa,3 197 94
-2021,Kansas,2 937 95
-2021,Kentucky,4 507 60
-2021,Louisiana,4 627 05
-2021,Maine,1 378 79
-2021,Maryland,6 175 05
-2021,Massachusetts,6 991 95
-2021,Michigan,10 038 12
-2021,Minnesota,5 717 97
-2021,Mississippi,2 949 58
-2021,Missouri,6 170 39
-2021,Montana,1 106 37
-2021,Nebraska,1 964 25
-2021,Nevada,3 146 63
-2021,New Hampshire,1 387 49
-2021,New Jersey,9 269 18
-2021,New Mexico,2 116 95
-2021,New York,19 854 53
-2021,North Carolina,10 567 10
-2021,North Dakota,777 98
-2021,Ohio,11 765 23
-2021,Oklahoma,3 991 63
-2021,Oregon,4 256 47
-2021,Pennsylvania,13 013 61
-2021,Rhode Island,1 097 09
-2021,South Carolina,5 193 85
-2021,South Dakota,896 30
-2021,Tennessee,6 963 71
-2021,Texas,29 561 29
-2021,Utah,3 339 28
-2021,Vermont,647 09
-2021,Virginia,8 657 35
-2021,Washington,7 741 43
-2021,West Virginia,1 785 25
-2021,Wisconsin,5 879 98
-2021,Wyoming,579 55
-2022,Alabama,5 073 90
-2022,Alaska,733 28
-2022,Arizona,7 365 68
-2022,Arkansas,3 046 40
-2022,California,39 040 62
-2022,Colorado,5 841 04
-2022,Connecticut,3 608 71
-2022,Delaware,1 019 46
-2022,District of Columbia,670 95
-2022,Florida,22 245 52
-2022,Georgia,10 913 15
-2022,Hawaii,1 439 40
-2022,Idaho,1 939 00
-2022,Illinois,12 582 52
-2022,Indiana,6 832 27
-2022,Iowa,3 199 69
-2022,Kansas,2 936 72
-2022,Kentucky,4 511 56
-2022,Louisiana,4 588 02
-2022,Maine,1 389 34
-2022,Maryland,6 163 98
-2022,Massachusetts,6 982 74
-2022,Michigan,10 033 28
-2022,Minnesota,5 714 30
-2022,Mississippi,2 938 93
-2022,Missouri,6 177 17
-2022,Montana,1 122 88
-2022,Nebraska,1 968 06
-2022,Nevada,3 177 42
-2022,New Hampshire,1 399 00
-2022,New Jersey,9 260 82
-2022,New Mexico,2 113 48
-2022,New York,19 673 20
-2022,North Carolina,10 695 97
-2022,North Dakota,778 91
-2022,Ohio,11 759 70
-2022,Oklahoma,4 019 27
-2022,Oregon,4 239 38
-2022,Pennsylvania,12 972 09
-2022,Rhode Island,1 093 84
-2022,South Carolina,5 282 96
-2022,South Dakota,909 87
-2022,Tennessee,7 048 98
-2022,Texas,30 029 85
-2022,Utah,3 381 24
-2022,Vermont,647 11
-2022,Virginia,8 679 10
-2022,Washington,7 784 48
-2022,West Virginia,1 774 04
-2022,Wisconsin,5 890 54
-2022,Wyoming,581 629
+1999,Alabama,4 430 141,44 806
+1999,Alaska,624 779,2 708
+1999,Arizona,5 023 823,40 050
+1999,Arkansas,2 651 860,27 925
+1999,California,33 499 204,229 380
+1999,Colorado,4 226 018,27 114
+1999,Connecticut,3 386 401,29 446
+1999,Delaware,774 990,6 666
+1999,District of Columbia,570 213,6 076
+1999,Florida,15 759 421,163 224
+1999,Georgia,8 045 965,62 028
+1999,Hawaii,1 210 300,8 270
+1999,Idaho,1 275 674,9 579
+1999,Illinois,12 359 020,108 436
+1999,Indiana,6 044 969,55 303
+1999,Iowa,2 917 634,28 411
+1999,Kansas,2 678 338,24 472
+1999,Kentucky,4 018 053,39 321
+1999,Louisiana,4 460 811,41 238
+1999,Maine,1 266 808,12 261
+1999,Maryland,5 254 509,43 089
+1999,Massachusetts,6 317 345,55 840
+1999,Michigan,9 897 116,87 232
+1999,Minnesota,4 873 481,38 537
+1999,Mississippi,2 828 408,28 185
+1999,Missouri,5 561 948,55 931
+1999,Montana,897 507,8 128
+1999,Nebraska,1 704 764,15 579
+1999,Nevada,1 934 718,15 082
+1999,New Hampshire,1 222 014,9 537
+1999,New Jersey,8 359 592,73 981
+1999,New Mexico,1 808 082,13 676
+1999,New York,18 882 725,159 927
+1999,North Carolina,7 949 361,69 600
+1999,North Dakota,644 259,6 103
+1999,Ohio,11 335 454,108 517
+1999,Oklahoma,3 437 147,34 700
+1999,Oregon,3 393 941,29 422
+1999,Pennsylvania,12 263 805,130 283
+1999,Rhode Island,1 040 402,9 708
+1999,South Carolina,3 974 682,36 053
+1999,South Dakota,750 412,6 953
+1999,Tennessee,5 638 706,53 765
+1999,Texas,20 558 220,146 858
+1999,Utah,2 203 482,12 058
+1999,Vermont,604 683,4 993
+1999,Virginia,7 000 174,55 320
+1999,Washington,5 842 564,43 865
+1999,West Virginia,1 811 799,21 049
+1999,Wisconsin,5 332 666,46 672
+1999,Wyoming,491 780,4 042
+2000,Alabama,4 447 100,45 062
+2000,Alaska,626 932,2 914
+2000,Arizona,5 130 632,40 500
+2000,Arkansas,2 673 400,28 217
+2000,California,33 871 648,229 551
+2000,Colorado,4 301 261,27 288
+2000,Connecticut,3 405 565,30 129
+2000,Delaware,783 600,6 875
+2000,District of Columbia,572 059,6 001
+2000,Florida,15 982 378,164 395
+2000,Georgia,8 186 453,63 870
+2000,Hawaii,1 211 537,8 290
+2000,Idaho,1 293 953,9 563
+2000,Illinois,12 419 293,106 634
+2000,Indiana,6 080 485,55 469
+2000,Iowa,2 926 324,28 060
+2000,Kansas,2 688 418,24 717
+2000,Kentucky,4 041 769,39 504
+2000,Louisiana,4 468 976,41 138
+2000,Maine,1 274 923,12 354
+2000,Maryland,5 296 486,43 753
+2000,Massachusetts,6 349 097,56 681
+2000,Michigan,9 938 444,86 953
+2000,Minnesota,4 919 479,37 690
+2000,Mississippi,2 844 658,28 654
+2000,Missouri,5 595 211,54 865
+2000,Montana,902 195,8 096
+2000,Nebraska,1 711 263,14 992
+2000,Nevada,1 998 257,15 261
+2000,New Hampshire,1 235 786,9 697
+2000,New Jersey,8 414 350,74 800
+2000,New Mexico,1 819 046,13 425
+2000,New York,18 976 457,158 203
+2000,North Carolina,8 049 313,71 935
+2000,North Dakota,642 200,5 856
+2000,Ohio,11 353 140,108 125
+2000,Oklahoma,3 450 654,35 079
+2000,Oregon,3 421 399,29 552
+2000,Pennsylvania,12 281 054,130 813
+2000,Rhode Island,1 048 319,10 027
+2000,South Carolina,4 012 012,36 948
+2000,South Dakota,754 844,7 021
+2000,Tennessee,5 689 283,55 246
+2000,Texas,20 851 820,149 939
+2000,Utah,2 233 169,12 364
+2000,Vermont,608 827,5 127
+2000,Virginia,7 078 515,56 282
+2000,Washington,5 894 121,43 941
+2000,West Virginia,1 808 344,21 114
+2000,Wisconsin,5 363 675,46 461
+2000,Wyoming,493 782,3 920
+2001,Alabama,4 467 634,45 316
+2001,Alaska,633 714,2 974
+2001,Arizona,5 273 477,41 058
+2001,Arkansas,2 691 571,27 759
+2001,California,34 479 458,234 044
+2001,Colorado,4 425 687,28 294
+2001,Connecticut,3 432 835,29 827
+2001,Delaware,795 699,7 112
+2001,District of Columbia,574 504,5 951
+2001,Florida,16 356 966,167 269
+2001,Georgia,8 377 038,64 485
+2001,Hawaii,1 225 948,8 394
+2001,Idaho,1 319 962,9 753
+2001,Illinois,12 488 445,105 430
+2001,Indiana,6 127 760,55 198
+2001,Iowa,2 931 997,27 791
+2001,Kansas,2 702 162,24 647
+2001,Kentucky,4 068 132,39 861
+2001,Louisiana,4 477 875,41 757
+2001,Maine,1 285 692,12 421
+2001,Maryland,5 374 691,43 839
+2001,Massachusetts,6 397 634,56 754
+2001,Michigan,9 991 120,86 424
+2001,Minnesota,4 982 796,37 735
+2001,Mississippi,2 852 994,28 259
+2001,Missouri,5 641 142,54 982
+2001,Montana,906 961,8 265
+2001,Nebraska,1 719 836,15 174
+2001,Nevada,2 098 399,16 285
+2001,New Hampshire,1 255 517,9 815
+2001,New Jersey,8 492 671,74 710
+2001,New Mexico,1 831 690,14 129
+2001,New York,19 082 838,159 240
+2001,North Carolina,8 210 122,70 934
+2001,North Dakota,639 062,6 048
+2001,Ohio,11 387 404,108 027
+2001,Oklahoma,3 467 100,34 682
+2001,Oregon,3 467 937,30 158
+2001,Pennsylvania,12 298 970,129 729
+2001,Rhode Island,1 057 142,10 021
+2001,South Carolina,4 064 995,36 612
+2001,South Dakota,757 972,6 923
+2001,Tennessee,5 750 789,55 151
+2001,Texas,21 319 622,152 779
+2001,Utah,2 283 715,12 662
+2001,Vermont,612 223,5 201
+2001,Virginia,7 198 362,56 280
+2001,Washington,5 985 722,44 642
+2001,West Virginia,1 801 481,20 967
+2001,Wisconsin,5 406 835,46 628
+2001,Wyoming,494 657,4 029
+2002,Alabama,4 480 089,46 069
+2002,Alaska,642 337,3 030
+2002,Arizona,5 396 255,42 816
+2002,Arkansas,2 705 927,28 513
+2002,California,34 871 843,234 565
+2002,Colorado,4 490 406,29 210
+2002,Connecticut,3 458 749,30 122
+2002,Delaware,806 169,6 861
+2002,District of Columbia,573 158,5 851
+2002,Florida,16 689 370,167 814
+2002,Georgia,8 508 256,65 449
+2002,Hawaii,1 239 613,8 801
+2002,Idaho,1 340 372,9 923
+2002,Illinois,12 525 556,106 667
+2002,Indiana,6 155 967,55 396
+2002,Iowa,2 934 234,27 978
+2002,Kansas,2 713 535,25 021
+2002,Kentucky,4 089 875,40 697
+2002,Louisiana,4 497 267,41 984
+2002,Maine,1 295 960,12 694
+2002,Maryland,5 440 389,43 970
+2002,Massachusetts,6 417 206,56 928
+2002,Michigan,10 015 710,87 795
+2002,Minnesota,5 018 935,38 510
+2002,Mississippi,2 858 681,28 853
+2002,Missouri,5 674 825,55 940
+2002,Montana,911 667,8 506
+2002,Nebraska,1 728 292,15 738
+2002,Nevada,2 173 791,16 927
+2002,New Hampshire,1 269 089,9 853
+2002,New Jersey,8 552 643,74 009
+2002,New Mexico,1 855 309,14 344
+2002,New York,19 137 800,158 118
+2002,North Carolina,8 326 201,72 027
+2002,North Dakota,638 168,5 892
+2002,Ohio,11 407 889,109 766
+2002,Oklahoma,3 489 080,35 502
+2002,Oregon,3 513 424,31 119
+2002,Pennsylvania,12 331 031,130 223
+2002,Rhode Island,1 065 995,10 246
+2002,South Carolina,4 107 795,37 736
+2002,South Dakota,760 020,6 898
+2002,Tennessee,5 795 918,56 606
+2002,Texas,21 690 325,155 524
+2002,Utah,2 324 815,13 116
+2002,Vermont,615 442,5 075
+2002,Virginia,7 286 873,57 196
+2002,Washington,6 052 349,45 338
+2002,West Virginia,1 805 414,21 016
+2002,Wisconsin,5 445 162,46 981
+2002,Wyoming,500 017,4 174
+2003,Alabama,4 503 491,46 716
+2003,Alaska,648 414,3 180
+2003,Arizona,5 510 364,43 392
+2003,Arkansas,2 724 816,27 918
+2003,California,35 253 159,239 371
+2003,Colorado,4 528 732,29 506
+2003,Connecticut,3 484 336,29 627
+2003,Delaware,818 003,7 070
+2003,District of Columbia,568 502,5 573
+2003,Florida,17 004 085,168 657
+2003,Georgia,8 622 793,66 478
+2003,Hawaii,1 251 154,8 978
+2003,Idaho,1 363 380,10 380
+2003,Illinois,12 556 006,105 325
+2003,Indiana,6 196 638,55 968
+2003,Iowa,2 941 999,28 062
+2003,Kansas,2 723 004,24 593
+2003,Kentucky,4 117 170,40 241
+2003,Louisiana,4 521 042,42 719
+2003,Maine,1 306 513,12 540
+2003,Maryland,5 496 269,44 499
+2003,Massachusetts,6 422 565,56 291
+2003,Michigan,10 041 152,86 728
+2003,Minnesota,5 053 572,37 620
+2003,Mississippi,2 868 312,28 489
+2003,Missouri,5 709 403,55 582
+2003,Montana,919 630,8 467
+2003,Nebraska,1 738 643,15 465
+2003,Nevada,2 248 850,17 858
+2003,New Hampshire,1 279 840,9 708
+2003,New Jersey,8 601 402,73 689
+2003,New Mexico,1 877 574,14 805
+2003,New York,19 175 939,155 877
+2003,North Carolina,8 422 501,73 459
+2003,North Dakota,638 817,6 090
+2003,Ohio,11 434 788,109 110
+2003,Oklahoma,3 504 892,35 721
+2003,Oregon,3 547 376,30 912
+2003,Pennsylvania,12 374 658,129 769
+2003,Rhode Island,1 071 342,10 039
+2003,South Carolina,4 150 297,38 112
+2003,South Dakota,763 729,7 132
+2003,Tennessee,5 847 812,57 313
+2003,Texas,22 030 931,154 870
+2003,Utah,2 360 137,13 412
+2003,Vermont,617 858,5 120
+2003,Virginia,7 366 977,58 282
+2003,Washington,6 104 115,45 920
+2003,West Virginia,1 812 295,21 306
+2003,Wisconsin,5 479 203,46 177
+2003,Wyoming,503 453,4 172
+2004,Alabama,4 530 729,46 121
+2004,Alaska,659 286,3 051
+2004,Arizona,5 652 404,43 198
+2004,Arkansas,2 749 686,27 528
+2004,California,35 574 576,232 525
+2004,Colorado,4 575 013,28 309
+2004,Connecticut,3 496 094,29 314
+2004,Delaware,830 803,7 143
+2004,District of Columbia,567 754,5 454
+2004,Florida,17 415 318,169 008
+2004,Georgia,8 769 252,65 818
+2004,Hawaii,1 273 569,9 030
+2004,Idaho,1 391 802,10 028
+2004,Illinois,12 589 773,102 670
+2004,Indiana,6 233 007,54 211
+2004,Iowa,2 953 635,26 897
+2004,Kansas,2 734 373,23 818
+2004,Kentucky,4 146 101,38 646
+2004,Louisiana,4 552 238,42 215
+2004,Maine,1 313 688,12 443
+2004,Maryland,5 546 935,43 232
+2004,Massachusetts,6 412 281,54 511
+2004,Michigan,10 055 315,85 169
+2004,Minnesota,5 087 713,37 034
+2004,Mississippi,2 889 010,27 871
+2004,Missouri,5 747 741,53 950
+2004,Montana,930 009,8 094
+2004,Nebraska,1 749 370,14 657
+2004,Nevada,2 346 222,17 929
+2004,New Hampshire,1 290 121,10 111
+2004,New Jersey,8 634 561,71 371
+2004,New Mexico,1 903 808,14 298
+2004,New York,19 171 567,152 681
+2004,North Carolina,8 553 152,72 384
+2004,North Dakota,644 705,5 601
+2004,Ohio,11 452 251,106 288
+2004,Oklahoma,3 525 233,34 483
+2004,Oregon,3 569 463,30 313
+2004,Pennsylvania,12 410 722,127 640
+2004,Rhode Island,1 074 579,9 769
+2004,South Carolina,4 210 921,37 276
+2004,South Dakota,770 396,6 833
+2004,Tennessee,5 910 809,55 829
+2004,Texas,22 394 023,152 870
+2004,Utah,2 401 580,13 331
+2004,Vermont,619 920,4 995
+2004,Virginia,7 475 575,56 550
+2004,Washington,6 178 645,44 770
+2004,West Virginia,1 816 438,20 793
+2004,Wisconsin,5 514 026,45 600
+2004,Wyoming,509 106,3 955
+2005,Alabama,4 569 805,47 090
+2005,Alaska,666 946,3 168
+2005,Arizona,5 839 077,45 827
+2005,Arkansas,2 781 097,28 055
+2005,California,35 827 943,237 037
+2005,Colorado,4 631 888,29 627
+2005,Connecticut,3 506 956,29 467
+2005,Delaware,845 150,7 472
+2005,District of Columbia,567 136,5 483
+2005,Florida,17 842 038,170 791
+2005,Georgia,8 925 922,66 736
+2005,Hawaii,1 292 729,9 136
+2005,Idaho,1 428 241,10 556
+2005,Illinois,12 609 903,103 974
+2005,Indiana,6 278 616,55 675
+2005,Iowa,2 964 454,27 811
+2005,Kansas,2 745 299,24 682
+2005,Kentucky,4 182 742,40 223
+2005,Louisiana,4 576 628,44 355
+2005,Maine,1 318 787,12 868
+2005,Maryland,5 592 379,43 892
+2005,Massachusetts,6 403 290,53 874
+2005,Michigan,10 051 137,86 867
+2005,Minnesota,5 119 598,37 535
+2005,Mississippi,2 905 943,29 196
+2005,Missouri,5 790 300,54 656
+2005,Montana,940 102,8 528
+2005,Nebraska,1 761 497,14 963
+2005,Nevada,2 432 143,19 029
+2005,New Hampshire,1 298 492,10 194
+2005,New Jersey,8 651 974,71 963
+2005,New Mexico,1 932 274,14 983
+2005,New York,19 132 610,152 427
+2005,North Carolina,8 705 407,74 638
+2005,North Dakota,646 089,5 744
+2005,Ohio,11 463 320,109 031
+2005,Oklahoma,3 548 597,36 180
+2005,Oregon,3 613 202,31 091
+2005,Pennsylvania,12 449 990,129 532
+2005,Rhode Island,1 067 916,10 007
+2005,South Carolina,4 270 150,38 707
+2005,South Dakota,775 493,7 086
+2005,Tennessee,5 991 057,57 260
+2005,Texas,22 778 123,156 457
+2005,Utah,2 457 719,13 432
+2005,Vermont,621 215,5 066
+2005,Virginia,7 577 105,57 855
+2005,Washington,6 257 305,46 203
+2005,West Virginia,1 820 492,20 780
+2005,Wisconsin,5 546 166,46 709
+2005,Wyoming,514 157,4 099
+2006,Alabama,4 628 981,46 977
+2006,Alaska,675 302,3 354
+2006,Arizona,6 029 141,46 365
+2006,Arkansas,2 821 761,27 901
+2006,California,36 021 202,237 126
+2006,Colorado,4 720 423,29 521
+2006,Connecticut,3 517 460,29 260
+2006,Delaware,859 268,7 204
+2006,District of Columbia,570 681,5 344
+2006,Florida,18 166 990,170 066
+2006,Georgia,9 155 813,67 808
+2006,Hawaii,1 309 731,9 432
+2006,Idaho,1 468 669,10 613
+2006,Illinois,12 643 955,102 171
+2006,Indiana,6 332 669,55 622
+2006,Iowa,2 982 644,27 362
+2006,Kansas,2 762 931,24 553
+2006,Kentucky,4 219 239,40 102
+2006,Louisiana,4 302 665,40 045
+2006,Maine,1 323 619,12 294
+2006,Maryland,5 627 367,43 582
+2006,Massachusetts,6 410 084,53 450
+2006,Michigan,10 036 081,86 042
+2006,Minnesota,5 163 555,37 028
+2006,Mississippi,2 904 978,28 564
+2006,Missouri,5 842 704,54 681
+2006,Montana,952 692,8 472
+2006,Nebraska,1 772 693,14 899
+2006,Nevada,2 522 658,18 872
+2006,New Hampshire,1 308 389,10 060
+2006,New Jersey,8 661 679,70 356
+2006,New Mexico,1 962 137,15 296
+2006,New York,19 104 631,148 806
+2006,North Carolina,8 917 270,74 716
+2006,North Dakota,649 422,5 868
+2006,Ohio,11 481 213,106 825
+2006,Oklahoma,3 594 090,35 427
+2006,Oregon,3 670 883,31 380
+2006,Pennsylvania,12 510 809,125 539
+2006,Rhode Island,1 063 096,9 690
+2006,South Carolina,4 357 847,38 761
+2006,South Dakota,783 033,7 084
+2006,Tennessee,6 088 766,56 838
+2006,Texas,23 359 580,157 150
+2006,Utah,2 525 507,13 764
+2006,Vermont,622 892,5 048
+2006,Virginia,7 673 725,57 690
+2006,Washington,6 370 753,46 120
+2006,West Virginia,1 827 912,20 672
+2006,Wisconsin,5 577 655,46 153
+2006,Wyoming,522 667,4 311
+2007,Alabama,4 672 840,46 696
+2007,Alaska,680 300,3 463
+2007,Arizona,6 167 681,45 554
+2007,Arkansas,2 848 650,28 191
+2007,California,36 250 311,233 720
+2007,Colorado,4 803 868,29 993
+2007,Connecticut,3 527 270,28 651
+2007,Delaware,871 749,7 327
+2007,District of Columbia,574 404,5 188
+2007,Florida,18 367 842,168 096
+2007,Georgia,9 349 988,68 331
+2007,Hawaii,1 315 675,9 495
+2007,Idaho,1 505 105,10 822
+2007,Illinois,12 695 866,100 503
+2007,Indiana,6 379 599,54 000
+2007,Iowa,2 999 212,27 221
+2007,Kansas,2 783 785,24 491
+2007,Kentucky,4 256 672,40 090
+2007,Louisiana,4 375 581,39 966
+2007,Maine,1 327 040,12 493
+2007,Maryland,5 653 408,43 757
+2007,Massachusetts,6 431 559,52 917
+2007,Michigan,10 001 284,86 721
+2007,Minnesota,5 207 203,37 138
+2007,Mississippi,2 928 350,28 255
+2007,Missouri,5 887 612,54 166
+2007,Montana,964 706,8 624
+2007,Nebraska,1 783 440,15 263
+2007,Nevada,2 601 072,18 687
+2007,New Hampshire,1 312 540,10 303
+2007,New Jersey,8 677 885,69 662
+2007,New Mexico,1 990 070,15 482
+2007,New York,19 132 335,147 680
+2007,North Carolina,9 118 037,76 046
+2007,North Dakota,652 822,5 561
+2007,Ohio,11 500 468,106 534
+2007,Oklahoma,3 634 349,36 032
+2007,Oregon,3 722 417,31 403
+2007,Pennsylvania,12 563 937,125 104
+2007,Rhode Island,1 057 315,9 723
+2007,South Carolina,4 444 110,39 439
+2007,South Dakota,791 623,6 826
+2007,Tennessee,6 175 727,57 087
+2007,Texas,23 831 983,160 548
+2007,Utah,2 597 746,14 143
+2007,Vermont,623 481,5 179
+2007,Virginia,7 751 000,58 225
+2007,Washington,6 461 587,47 323
+2007,West Virginia,1 834 052,21 086
+2007,Wisconsin,5 610 775,46 241
+2007,Wyoming,534 876,4 266
+2008,Alabama,4 718 206,47 707
+2008,Alaska,687 455,3 494
+2008,Arizona,6 280 362,45 823
+2008,Arkansas,2 874 554,29 322
+2008,California,36 604 337,234 766
+2008,Colorado,4 889 730,31 274
+2008,Connecticut,3 545 579,28 794
+2008,Delaware,883 874,7 622
+2008,District of Columbia,580 236,5 140
+2008,Florida,18 527 305,170 703
+2008,Georgia,9 504 843,69 640
+2008,Hawaii,1 332 213,9 501
+2008,Idaho,1 534 320,10 962
+2008,Illinois,12 747 038,103 471
+2008,Indiana,6 424 806,56 752
+2008,Iowa,3 016 734,28 541
+2008,Kansas,2 808 076,24 975
+2008,Kentucky,4 289 878,41 329
+2008,Louisiana,4 435 586,41 220
+2008,Maine,1 330 509,12 541
+2008,Maryland,5 684 965,43 892
+2008,Massachusetts,6 468 967,53 518
+2008,Michigan,9 946 889,88 445
+2008,Minnesota,5 247 018,38 499
+2008,Mississippi,2 947 806,28 984
+2008,Missouri,5 923 916,56 578
+2008,Montana,976 415,8 913
+2008,Nebraska,1 796 378,15 461
+2008,Nevada,2 653 630,19 335
+2008,New Hampshire,1 315 906,10 268
+2008,New Jersey,8 711 090,70 026
+2008,New Mexico,2 010 662,16 005
+2008,New York,19 212 436,148 698
+2008,North Carolina,9 309 449,77 283
+2008,North Dakota,657 569,5 871
+2008,Ohio,11 515 391,109 767
+2008,Oklahoma,3 668 976,37 014
+2008,Oregon,3 768 748,31 967
+2008,Pennsylvania,12 612 285,127 462
+2008,Rhode Island,1 055 003,9 738
+2008,South Carolina,4 528 996,40 289
+2008,South Dakota,799 124,7 083
+2008,Tennessee,6 247 411,58 820
+2008,Texas,24 309 039,164 914
+2008,Utah,2 663 029,14 040
+2008,Vermont,624 151,5 211
+2008,Virginia,7 833 496,59 100
+2008,Washington,6 562 231,48 627
+2008,West Virginia,1 840 310,21 557
+2008,Wisconsin,5 640 996,46 815
+2008,Wyoming,546 043,4 227
+2009,Alabama,4 757 938,47 470
+2009,Alaska,698 895,3 618
+2009,Arizona,6 343 154,45 816
+2009,Arkansas,2 896 843,28 673
+2009,California,36 961 229,232 736
+2009,Colorado,4 972 195,31 173
+2009,Connecticut,3 561 807,28 585
+2009,Delaware,891 730,7 534
+2009,District of Columbia,592 228,4 834
+2009,Florida,18 652 644,169 924
+2009,Georgia,9 620 846,69 712
+2009,Hawaii,1 346 717,9 914
+2009,Idaho,1 554 439,11 098
+2009,Illinois,12 796 778,100 056
+2009,Indiana,6 459 325,55 973
+2009,Iowa,3 032 870,27 544
+2009,Kansas,2 832 704,24 024
+2009,Kentucky,4 317 074,41 380
+2009,Louisiana,4 491 648,40 282
+2009,Maine,1 329 590,12 594
+2009,Maryland,5 730 388,43 843
+2009,Massachusetts,6 517 613,52 308
+2009,Michigan,9 901 591,86 455
+2009,Minnesota,5 281 203,37 851
+2009,Mississippi,2 958 774,28 275
+2009,Missouri,5 961 088,54 263
+2009,Montana,983 982,8 730
+2009,Nebraska,1 812 683,14 810
+2009,Nevada,2 684 665,19 224
+2009,New Hampshire,1 316 102,10 100
+2009,New Jersey,8 755 602,68 277
+2009,New Mexico,2 036 802,15 643
+2009,New York,19 307 066,146 475
+2009,North Carolina,9 449 566,77 117
+2009,North Dakota,664 968,5 914
+2009,Ohio,11 528 896,107 156
+2009,Oklahoma,3 717 572,35 601
+2009,Oregon,3 808 600,31 636
+2009,Pennsylvania,12 666 858,124 780
+2009,Rhode Island,1 053 646,9 395
+2009,South Carolina,4 589 872,40 449
+2009,South Dakota,807 067,6 923
+2009,Tennessee,6 306 019,58 288
+2009,Texas,24 801 761,163 249
+2009,Utah,2 723 421,14 138
+2009,Vermont,624 817,5 034
+2009,Virginia,7 925 937,58 653
+2009,Washington,6 667 426,48 270
+2009,West Virginia,1 847 775,21 386
+2009,Wisconsin,5 669 264,45 697
+2009,Wyoming,559 851,4 283
+2010,Alabama,4 779 736,48 038
+2010,Alaska,710 231,3 728
+2010,Arizona,6 392 017,46 762
+2010,Arkansas,2 915 918,28 916
+2010,California,37 253 956,234 012
+2010,Colorado,5 029 196,31 465
+2010,Connecticut,3 574 097,28 692
+2010,Delaware,897 934,7 706
+2010,District of Columbia,601 723,4 672
+2010,Florida,18 801 310,173 791
+2010,Georgia,9 687 653,71 263
+2010,Hawaii,1 360 301,9 617
+2010,Idaho,1 567 582,11 429
+2010,Illinois,12 830 632,99 931
+2010,Indiana,6 483 802,56 743
+2010,Iowa,3 046 355,27 745
+2010,Kansas,2 853 118,24 502
+2010,Kentucky,4 339 367,41 983
+2010,Louisiana,4 533 372,40 667
+2010,Maine,1 328 361,12 750
+2010,Maryland,5 773 552,43 325
+2010,Massachusetts,6 547 629,52 583
+2010,Michigan,9 883 640,88 021
+2010,Minnesota,5 303 925,38 972
+2010,Mississippi,2 967 297,28 965
+2010,Missouri,5 988 927,55 281
+2010,Montana,989 415,8 827
+2010,Nebraska,1 826 341,15 171
+2010,Nevada,2 700 551,19 623
+2010,New Hampshire,1 316 470,10 201
+2010,New Jersey,8 791 894,69 495
+2010,New Mexico,2 059 179,15 931
+2010,New York,19 378 102,146 432
+2010,North Carolina,9 535 483,78 773
+2010,North Dakota,672 591,5 944
+2010,Ohio,11 536 504,108 711
+2010,Oklahoma,3 751 351,36 529
+2010,Oregon,3 831 074,31 890
+2010,Pennsylvania,12 702 379,124 596
+2010,Rhode Island,1 052 567,9 579
+2010,South Carolina,4 625 364,41 614
+2010,South Dakota,814 180,7 100
+2010,Tennessee,6 346 105,59 578
+2010,Texas,25 145 561,166 527
+2010,Utah,2 763 885,14 776
+2010,Vermont,625 741,5 380
+2010,Virginia,8 001 024,59 032
+2010,Washington,6 724 540,48 146
+2010,West Virginia,1 852 994,21 275
+2010,Wisconsin,5 686 986,47 308
+2010,Wyoming,563 626,4 438
+2011,Alabama,4 802 740,48 681
+2011,Alaska,722 718,3 849
+2011,Arizona,6 482 505,48 381
+2011,Arkansas,2 937 979,29 653
+2011,California,37 691 912,239 942
+2011,Colorado,5 116 796,32 563
+2011,Connecticut,3 580 709,29 526
+2011,Delaware,907 135,7 845
+2011,District of Columbia,617 996,4 589
+2011,Florida,19 057 542,173 976
+2011,Georgia,9 815 210,71 248
+2011,Hawaii,1 374 810,9 923
+2011,Idaho,1 584 985,12 027
+2011,Illinois,12 869 257,101 906
+2011,Indiana,6 516 922,58 202
+2011,Iowa,3 062 309,28 184
+2011,Kansas,2 871 238,25 116
+2011,Kentucky,4 369 356,42 626
+2011,Louisiana,4 574 836,40 890
+2011,Maine,1 328 188,13 001
+2011,Maryland,5 828 289,43 745
+2011,Massachusetts,6 587 536,53 710
+2011,Michigan,9 876 187,89 508
+2011,Minnesota,5 344 861,39 820
+2011,Mississippi,2 978 512,29 278
+2011,Missouri,6 010 688,55 848
+2011,Montana,998 199,9 115
+2011,Nebraska,1 842 641,15 476
+2011,Nevada,2 723 322,20 343
+2011,New Hampshire,1 318 194,10 823
+2011,New Jersey,8 821 155,70 558
+2011,New Mexico,2 082 224,16 452
+2011,New York,19 465 197,149 174
+2011,North Carolina,9 656 401,79 882
+2011,North Dakota,683 932,5 965
+2011,Ohio,11 544 951,111 427
+2011,Oklahoma,3 791 508,37 175
+2011,Oregon,3 871 859,32 788
+2011,Pennsylvania,12 742 886,128 237
+2011,Rhode Island,1 051 302,9 581
+2011,South Carolina,4 679 230,42 072
+2011,South Dakota,824 082,7 314
+2011,Tennessee,6 403 353,60 541
+2011,Texas,25 674 681,168 640
+2011,Utah,2 817 222,15 266
+2011,Vermont,626 431,5 433
+2011,Virginia,8 096 604,60 804
+2011,Washington,6 830 038,49 691
+2011,West Virginia,1 855 364,21 867
+2011,Wisconsin,5 711 767,48 410
+2011,Wyoming,568 158,4 387
+2012,Alabama,4 822 023,49 301
+2012,Alaska,731 449,3 912
+2012,Arizona,6 553 255,49 549
+2012,Arkansas,2 949 131,30 117
+2012,California,38 041 430,242 554
+2012,Colorado,5 187 582,33 133
+2012,Connecticut,3 590 347,29 316
+2012,Delaware,917 092,7 875
+2012,District of Columbia,632 323,4 650
+2012,Florida,19 317 568,177 291
+2012,Georgia,9 919 945,72 847
+2012,Hawaii,1 392 313,10 274
+2012,Idaho,1 595 728,11 998
+2012,Illinois,12 875 255,102 433
+2012,Indiana,6 537 334,59 332
+2012,Iowa,3 074 186,28 389
+2012,Kansas,2 885 905,25 145
+2012,Kentucky,4 380 415,43 664
+2012,Louisiana,4 601 893,42 320
+2012,Maine,1 329 192,12 870
+2012,Maryland,5 884 563,44 477
+2012,Massachusetts,6 646 144,53 177
+2012,Michigan,9 883 360,89 901
+2012,Minnesota,5 379 139,40 016
+2012,Mississippi,2 984 926,29 544
+2012,Missouri,6 021 988,56 094
+2012,Montana,1 005 141,8 976
+2012,Nebraska,1 855 525,15 659
+2012,Nevada,2 758 931,20 785
+2012,New Hampshire,1 320 718,10 730
+2012,New Jersey,8 864 590,70 534
+2012,New Mexico,2 085 538,16 710
+2012,New York,19 570 261,148 991
+2012,North Carolina,9 752 073,81 925
+2012,North Dakota,699 628,6 038
+2012,Ohio,11 544 225,112 498
+2012,Oklahoma,3 814 820,36 870
+2012,Oregon,3 899 353,32 759
+2012,Pennsylvania,12 763 536,126 981
+2012,Rhode Island,1 050 292,9 354
+2012,South Carolina,4 723 723,43 198
+2012,South Dakota,833 354,7 333
+2012,Tennessee,6 456 243,61 956
+2012,Texas,26 059 203,174 187
+2012,Utah,2 855 287,15 676
+2012,Vermont,626 011,5 491
+2012,Virginia,8 185 867,61 564
+2012,Washington,6 897 012,50 105
+2012,West Virginia,1 855 413,21 915
+2012,Wisconsin,5 726 398,48 384
+2012,Wyoming,576 412,4 481
+2013,Alabama,4 833 722,50 189
+2013,Alaska,735 132,3 997
+2013,Arizona,6 626 624,50 534
+2013,Arkansas,2 959 373,30 437
+2013,California,38 332 521,248 359
+2013,Colorado,5 268 367,33 712
+2013,Connecticut,3 596 080,29 632
+2013,Delaware,925 749,7 967
+2013,District of Columbia,646 449,4 719
+2013,Florida,19 552 860,181 112
+2013,Georgia,9 992 167,75 088
+2013,Hawaii,1 404 054,10 505
+2013,Idaho,1 612 136,12 434
+2013,Illinois,12 882 135,103 401
+2013,Indiana,6 570 902,60 716
+2013,Iowa,3 090 416,28 948
+2013,Kansas,2 893 957,25 414
+2013,Kentucky,4 395 295,43 759
+2013,Louisiana,4 625 470,43 270
+2013,Maine,1 328 302,13 547
+2013,Maryland,5 928 814,45 689
+2013,Massachusetts,6 692 824,54 567
+2013,Michigan,9 895 622,92 408
+2013,Minnesota,5 420 380,40 987
+2013,Mississippi,2 991 207,30 703
+2013,Missouri,6 044 171,57 444
+2013,Montana,1 015 165,9 511
+2013,Nebraska,1 868 516,15 754
+2013,Nevada,2 790 136,21 468
+2013,New Hampshire,1 323 459,10 897
+2013,New Jersey,8 899 339,71 403
+2013,New Mexico,2 085 287,16 805
+2013,New York,19 651 127,150 919
+2013,North Carolina,9 848 060,83 329
+2013,North Dakota,723 393,6 233
+2013,Ohio,11 570 808,113 258
+2013,Oklahoma,3 850 568,38 384
+2013,Oregon,3 930 065,33 939
+2013,Pennsylvania,12 773 801,129 123
+2013,Rhode Island,1 051 511,9 792
+2013,South Carolina,4 774 839,44 582
+2013,South Dakota,844 877,7 099
+2013,Tennessee,6 495 978,63 406
+2013,Texas,26 448 193,179 183
+2013,Utah,2 900 872,16 366
+2013,Vermont,626 630,5 639
+2013,Virginia,8 260 405,62 716
+2013,Washington,6 971 406,51 264
+2013,West Virginia,1 854 304,21 843
+2013,Wisconsin,5 742 713,50 026
+2013,Wyoming,582 658,4 516
+2014,Alabama,4 849 377,50 215
+2014,Alaska,736 732,4 128
+2014,Arizona,6 731 484,51 538
+2014,Arkansas,2 966 369,30 467
+2014,California,38 802 500,245 929
+2014,Colorado,5 355 866,35 237
+2014,Connecticut,3 596 677,29 860
+2014,Delaware,935 614,8 260
+2014,District of Columbia,658 893,4 723
+2014,Florida,19 893 297,185 956
+2014,Georgia,10 097 343,76 887
+2014,Hawaii,1 419 561,10 767
+2014,Idaho,1 634 464,12 613
+2014,Illinois,12 880 580,105 293
+2014,Indiana,6 596 855,60 940
+2014,Iowa,3 107 126,29 190
+2014,Kansas,2 904 021,25 793
+2014,Kentucky,4 413 457,44 838
+2014,Louisiana,4 649 676,43 869
+2014,Maine,1 330 089,13 510
+2014,Maryland,5 976 407,45 867
+2014,Massachusetts,6 745 408,55 200
+2014,Michigan,9 909 877,93 914
+2014,Minnesota,5 457 173,41 445
+2014,Mississippi,2 994 079,30 557
+2014,Missouri,6 063 589,58 320
+2014,Montana,1 023 579,9 381
+2014,Nebraska,1 881 503,15 978
+2014,Nevada,2 839 099,21 793
+2014,New Hampshire,1 326 813,11 516
+2014,New Jersey,8 938 175,71 316
+2014,New Mexico,2 085 572,17 579
+2014,New York,19 746 227,149 944
+2014,North Carolina,9 943 964,85 367
+2014,North Dakota,739 482,6 184
+2014,Ohio,11 594 163,114 509
+2014,Oklahoma,3 878 051,38 464
+2014,Oregon,3 970 239,34 151
+2014,Pennsylvania,12 787 209,128 434
+2014,Rhode Island,1 055 173,9 770
+2014,South Carolina,4 832 482,45 454
+2014,South Dakota,853 175,7 507
+2014,Tennessee,6 549 352,64 661
+2014,Texas,26 956 958,183 912
+2014,Utah,2 942 902,16 719
+2014,Vermont,626 562,5 623
+2014,Virginia,8 326 289,63 598
+2014,Washington,7 061 530,52 099
+2014,West Virginia,1 850 326,22 186
+2014,Wisconsin,5 757 564,50 291
+2014,Wyoming,584 153,4 666
+2015,Alabama,4 858 979,51 909
+2015,Alaska,738 432,4 316
+2015,Arizona,6 828 065,54 299
+2015,Arkansas,2 978 204,31 617
+2015,California,39 144 818,259 206
+2015,Colorado,5 456 574,36 349
+2015,Connecticut,3 590 886,30 535
+2015,Delaware,945 934,8 582
+2015,District of Columbia,672 228,4 871
+2015,Florida,20 271 272,191 737
+2015,Georgia,10 214 860,79 942
+2015,Hawaii,1 431 603,11 053
+2015,Idaho,1 654 930,13 026
+2015,Illinois,12 859 995,106 872
+2015,Indiana,6 619 680,62 713
+2015,Iowa,3 123 899,29 600
+2015,Kansas,2 911 641,26 664
+2015,Kentucky,4 425 092,46 564
+2015,Louisiana,4 670 724,43 716
+2015,Maine,1 329 328,14 479
+2015,Maryland,6 006 401,47 247
+2015,Massachusetts,6 794 422,57 806
+2015,Michigan,9 922 576,95 140
+2015,Minnesota,5 489 594,42 800
+2015,Mississippi,2 992 333,31 783
+2015,Missouri,6 083 672,59 871
+2015,Montana,1 032 949,9 942
+2015,Nebraska,1 896 190,16 740
+2015,Nevada,2 890 845,22 879
+2015,New Hampshire,1 330 608,11 984
+2015,New Jersey,8 958 013,72 271
+2015,New Mexico,2 085 109,17 685
+2015,New York,19 795 791,153 628
+2015,North Carolina,10 042 802,89 133
+2015,North Dakota,756 927,6 223
+2015,Ohio,11 613 423,118 188
+2015,Oklahoma,3 911 338,39 422
+2015,Oregon,4 028 977,35 705
+2015,Pennsylvania,12 802 503,132 598
+2015,Rhode Island,1 056 298,10 163
+2015,South Carolina,4 896 146,47 198
+2015,South Dakota,858 469,7 731
+2015,Tennessee,6 600 299,66 570
+2015,Texas,27 469 114,189 654
+2015,Utah,2 995 919,17 334
+2015,Vermont,626 042,5 919
+2015,Virginia,8 382 993,65 577
+2015,Washington,7 170 351,54 595
+2015,West Virginia,1 844 128,22 752
+2015,Wisconsin,5 771 337,51 264
+2015,Wyoming,586 107,4 778
+2016,Alabama,4 863 300,52 466
+2016,Alaska,741 894,4 494
+2016,Arizona,6 931 071,56 645
+2016,Arkansas,2 988 248,31 756
+2016,California,39 250 017,262 240
+2016,Colorado,5 540 545,37 530
+2016,Connecticut,3 576 452,30 543
+2016,Delaware,952 065,8 874
+2016,District of Columbia,681 170,5 037
+2016,Florida,20 612 439,197 313
+2016,Georgia,10 310 371,81 428
+2016,Hawaii,1 428 557,10 913
+2016,Idaho,1 683 140,13 366
+2016,Illinois,12 801 539,107 020
+2016,Indiana,6 633 053,63 473
+2016,Iowa,3 134 693,29 538
+2016,Kansas,2 907 289,26 245
+2016,Kentucky,4 436 974,47 827
+2016,Louisiana,4 681 666,44 306
+2016,Maine,1 331 479,14 182
+2016,Maryland,6 016 447,48 824
+2016,Massachusetts,6 811 779,56 961
+2016,Michigan,9 928 300,96 231
+2016,Minnesota,5 519 952,43 078
+2016,Mississippi,2 988 726,31 741
+2016,Missouri,6 093 000,59 873
+2016,Montana,1 042 520,9 905
+2016,Nebraska,1 907 116,16 217
+2016,Nevada,2 940 058,23 902
+2016,New Hampshire,1 334 795,12 203
+2016,New Jersey,8 944 469,73 155
+2016,New Mexico,2 081 015,18 365
+2016,New York,19 745 289,154 358
+2016,North Carolina,10 146 788,90 465
+2016,North Dakota,757 952,6 242
+2016,Ohio,11 614 373,119 572
+2016,Oklahoma,3 923 561,39 276
+2016,Oregon,4 093 465,35 778
+2016,Pennsylvania,12 784 227,133 040
+2016,Rhode Island,1 056 426,9 735
+2016,South Carolina,4 961 119,48 130
+2016,South Dakota,865 454,7 845
+2016,Tennessee,6 651 194,67 857
+2016,Texas,27 862 596,191 966
+2016,Utah,3 051 217,17 913
+2016,Vermont,624 594,5 909
+2016,Virginia,8 411 808,66 473
+2016,Washington,7 288 000,54 769
+2016,West Virginia,1 831 102,22 732
+2016,Wisconsin,5 778 708,51 815
+2016,Wyoming,585 501,4 722
+2017,Alabama,4 874 747,53 238
+2017,Alaska,739 795,4 411
+2017,Arizona,7 016 270,57 758
+2017,Arkansas,3 004 279,32 588
+2017,California,39 536 653,268 189
+2017,Colorado,5 607 154,38 063
+2017,Connecticut,3 588 184,31 312
+2017,Delaware,961 939,9 178
+2017,District of Columbia,693 972,4 965
+2017,Florida,20 984 400,203 636
+2017,Georgia,10 429 379,83 098
+2017,Hawaii,1 427 538,11 390
+2017,Idaho,1 716 943,14 011
+2017,Illinois,12 802 023,109 721
+2017,Indiana,6 666 818,65 597
+2017,Iowa,3 145 711,30 530
+2017,Kansas,2 913 123,27 063
+2017,Kentucky,4 454 189,48 212
+2017,Louisiana,4 684 333,45 804
+2017,Maine,1 335 907,14 676
+2017,Maryland,6 052 177,49 926
+2017,Massachusetts,6 859 819,58 803
+2017,Michigan,9 962 311,97 602
+2017,Minnesota,5 576 606,44 371
+2017,Mississippi,2 984 100,32 280
+2017,Missouri,6 113 532,61 876
+2017,Montana,1 050 493,10 200
+2017,Nebraska,1 920 076,16 878
+2017,Nevada,2 998 039,24 657
+2017,New Hampshire,1 342 795,12 504
+2017,New Jersey,9 005 644,74 846
+2017,New Mexico,2 088 070,18 673
+2017,New York,19 849 399,155 358
+2017,North Carolina,10 273 419,93 157
+2017,North Dakota,755 393,6 415
+2017,Ohio,11 658 609,123 648
+2017,Oklahoma,3 930 864,40 452
+2017,Oregon,4 142 776,36 624
+2017,Pennsylvania,12 805 537,135 656
+2017,Rhode Island,1 059 639,10 157
+2017,South Carolina,5 024 369,49 441
+2017,South Dakota,869 666,7 996
+2017,Tennessee,6 715 984,70 096
+2017,Texas,28 304 596,198 106
+2017,Utah,3 101 833,18 035
+2017,Vermont,623 657,6 007
+2017,Virginia,8 470 020,68 579
+2017,Washington,7 405 743,56 995
+2017,West Virginia,1 815 857,23 276
+2017,Wisconsin,5 795 483,52 681
+2017,Wyoming,579 315,4 768
+2018,Alabama,4 887 871,54 352
+2018,Alaska,737 438,4 453
+2018,Arizona,7 171 646,59 282
+2018,Arkansas,3 013 825,32 336
+2018,California,39 557 045,268 818
+2018,Colorado,5 695 564,38 526
+2018,Connecticut,3 572 665,31 230
+2018,Delaware,967 171,9 433
+2018,District of Columbia,702 455,5 008
+2018,Florida,21 299 325,205 426
+2018,Georgia,10 519 475,85 202
+2018,Hawaii,1 420 491,11 415
+2018,Idaho,1 754 208,14 261
+2018,Illinois,12 741 080,110 022
+2018,Indiana,6 691 878,65 693
+2018,Iowa,3 156 145,30 367
+2018,Kansas,2 911 505,27 537
+2018,Kentucky,4 468 402,48 707
+2018,Louisiana,4 659 978,46 048
+2018,Maine,1 338 404,14 715
+2018,Maryland,6 042 718,50 568
+2018,Massachusetts,6 902 149,59 152
+2018,Michigan,9 995 915,98 903
+2018,Minnesota,5 611 179,44 745
+2018,Mississippi,2 986 530,32 301
+2018,Missouri,6 126 452,63 117
+2018,Montana,1 062 305,9 992
+2018,Nebraska,1 929 268,16 904
+2018,Nevada,3 034 392,24 715
+2018,New Hampshire,1 356 458,12 774
+2018,New Jersey,8 908 520,75 765
+2018,New Mexico,2 095 428,19 007
+2018,New York,19 542 209,157 183
+2018,North Carolina,10 383 620,93 885
+2018,North Dakota,760 077,6 445
+2018,Ohio,11 689 442,124 264
+2018,Oklahoma,3 943 079,40 933
+2018,Oregon,4 190 713,36 187
+2018,Pennsylvania,12 807 060,134 702
+2018,Rhode Island,1 057 315,10 083
+2018,South Carolina,5 084 127,50 640
+2018,South Dakota,882 235,7 971
+2018,Tennessee,6 770 010,71 078
+2018,Texas,28 701 845,202 211
+2018,Utah,3 161 105,18 354
+2018,Vermont,626 299,6 027
+2018,Virginia,8 517 685,69 359
+2018,Washington,7 535 591,56 877
+2018,West Virginia,1 805 832,23 478
+2018,Wisconsin,5 813 568,53 684
+2018,Wyoming,577 737,5 070
+2019,Alabama,4 903 185,54 108
+2019,Alaska,731 545,4 613
+2019,Arizona,7 278 717,60 236
+2019,Arkansas,3 017 804,32 888
+2019,California,39 512 223,269 831
+2019,Colorado,5 758 736,39 390
+2019,Connecticut,3 565 287,31 745
+2019,Delaware,973 764,9 302
+2019,District of Columbia,705 749,4 927
+2019,Florida,21 477 737,207 002
+2019,Georgia,10 617 423,85 814
+2019,Hawaii,1 415 872,11 559
+2019,Idaho,1 787 065,14 430
+2019,Illinois,12 671 821,109 096
+2019,Indiana,6 732 219,66 001
+2019,Iowa,3 155 070,30 867
+2019,Kansas,2 913 314,27 682
+2019,Kentucky,4 467 673,48 990
+2019,Louisiana,4 648 794,45 938
+2019,Maine,1 344 212,15 065
+2019,Maryland,6 045 680,50 800
+2019,Massachusetts,6 892 503,58 630
+2019,Michigan,9 986 857,99 084
+2019,Minnesota,5 639 632,45 514
+2019,Mississippi,2 976 149,32 964
+2019,Missouri,6 137 428,62 401
+2019,Montana,1 068 778,10 402
+2019,Nebraska,1 934 408,16 970
+2019,Nevada,3 080 156,25 586
+2019,New Hampshire,1 359 711,12 744
+2019,New Jersey,8 882 190,75 010
+2019,New Mexico,2 096 829,19 512
+2019,New York,19 453 561,156 375
+2019,North Carolina,10 488 084,95 881
+2019,North Dakota,762 062,6 702
+2019,Ohio,11 689 100,123 717
+2019,Oklahoma,3 956 971,40 930
+2019,Oregon,4 217 737,37 370
+2019,Pennsylvania,12 801 989,133 983
+2019,Rhode Island,1 059 361,10 256
+2019,South Carolina,5 148 714,50 962
+2019,South Dakota,884 659,8 270
+2019,Tennessee,6 829 174,71 935
+2019,Texas,28 995 881,203 362
+2019,Utah,3 205 958,18 736
+2019,Vermont,623 989,5 956
+2019,Virginia,8 535 519,70 325
+2019,Washington,7 614 893,58 263
+2019,West Virginia,1 792 147,23 404
+2019,Wisconsin,5 822 434,54 189
+2019,Wyoming,578 759,5 121
+2020,Alabama,4 921 532,64 779
+2020,Alaska,731 158,5 170
+2020,Arizona,7 421 401,75 747
+2020,Arkansas,3 030 522,38 108
+2020,California,39 368 078,319 808
+2020,Colorado,5 807 719,46 918
+2020,Connecticut,3 557 006,37 853
+2020,Delaware,986 809,11 072
+2020,District of Columbia,712 816,6 198
+2020,Florida,21 733 312,239 685
+2020,Georgia,10 710 017,103 075
+2020,Hawaii,1 407 006,12 033
+2020,Idaho,1 826 913,16 402
+2020,Illinois,12 587 530,132 663
+2020,Indiana,6 754 953,78 194
+2020,Iowa,3 163 561,35 981
+2020,Kansas,2 913 805,32 060
+2020,Kentucky,4 477 251,55 880
+2020,Louisiana,4 645 318,56 752
+2020,Maine,1 350 141,15 740
+2020,Maryland,6 055 802,60 072
+2020,Massachusetts,6 893 574,68 223
+2020,Michigan,9 966 555,117 106
+2020,Minnesota,5 657 342,52 372
+2020,Mississippi,2 966 786,40 190
+2020,Missouri,6 151 548,73 887
+2020,Montana,1 080 577,12 027
+2020,Nebraska,1 937 552,19 549
+2020,Nevada,3 138 259,30 618
+2020,New Hampshire,1 366 275,13 700
+2020,New Jersey,8 882 371,96 003
+2020,New Mexico,2 106 319,23 807
+2020,New York,19 336 776,203 341
+2020,North Carolina,10 600 823,109 449
+2020,North Dakota,765 309,8 052
+2020,Ohio,11 693 217,143 700
+2020,Oklahoma,3 980 783,47 809
+2020,Oregon,4 241 507,40 220
+2020,Pennsylvania,12 783 254,155 546
+2020,Rhode Island,1 057 125,11 819
+2020,South Carolina,5 218 040,61 223
+2020,South Dakota,892 717,9 861
+2020,Tennessee,6 886 834,84 205
+2020,Texas,29 360 759,250 339
+2020,Utah,3 249 879,21 497
+2020,Vermont,623 347,6 459
+2020,Virginia,8 590 563,80 596
+2020,Washington,7 693 612,63 146
+2020,West Virginia,1 784 787,26 106
+2020,Wisconsin,5 832 655,62 706
+2020,Wyoming,582 328,5 983
